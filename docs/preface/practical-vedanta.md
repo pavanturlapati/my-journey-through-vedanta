@@ -1,78 +1,52 @@
 # Practical Vedanta
 
-## From My Notes
+## Handwritten Notes / Topic
+
+![Handwritten Preface notes](../assets/handwritten-notes/preface-2026-08-23-page-01.jpg)
+
+### Clean transcription
 
 The Preface introduces the human personality through:
 
-### Three states of consciousness
+- **Three states:** Waking, Dream, Deep Sleep
+- **Four broad personality tendencies:** predominantly emotional, predominantly intellectual, balanced in mind and intellect, and underdeveloped in both
+- **Four paths:** Bhakti, Jnana, Karma, and Hatha / Compulsion
 
-- Waking
-- Dream
-- Deep sleep
+In these notes, **Compulsion / Hatha** means disciplined command over the personality — body, mind, and intellect — rather than being helplessly driven by impulse.
 
-### Four broad personality tendencies
-
-The notes classify people according to the relative development of **mind** and **intellect**:
-
-1. Predominantly emotional
-2. Predominantly intellectual
-3. Balanced in mind and intellect
-4. Underdeveloped in both
-
-It then introduces four paths:
-
-- **Bhakti** — devotion
-- **Jnana** — knowledge
-- **Karma** — action
-- **Hatha / Compulsion** — disciplined command over the personality
-
-## Expanded Understanding
+## AI Explanation
 
 Practical Vedanta begins with a simple but demanding idea:
 
 **Before trying to understand the universe, understand the instrument through which you experience the universe.**
 
-That instrument is the human personality — body, mind, and intellect functioning together.
+That instrument is the human personality: body, mind, and intellect functioning together.
 
-## The three states
+### The three states
 
-### Waking
+**Waking** is the state in which we interact with the external world through the senses. The body acts, the mind responds, and the intellect evaluates and decides.
 
-In the waking state, we experience the external world through the senses. The body is active, the mind reacts, and the intellect evaluates and decides.
+**Dream** shows that the mind can create a complete field of experience even when the waking environment is absent. This raises questions about how experience is constructed and what we call real while we are experiencing it.
 
-### Dream
+**Deep sleep** is a state in which ordinary thoughts, desires, and objects appear absent. Yet on waking, we can say that we slept well. Vedanta uses the contrast among waking, dream, and deep sleep as a doorway into deeper inquiry about the experiencer.
 
-In dream, the external waking world is temporarily absent, yet the mind can create a complete field of experience. This raises important questions about how experience is constructed and what we call “real” while an experience is happening.
+### Mind and intellect
 
-### Deep sleep
-
-In deep sleep, ordinary thoughts, desires, objects, and personal concerns appear absent. Yet on waking we can say, “I slept well.” Vedanta uses the contrast among waking, dream, and deep sleep as a doorway into deeper inquiry about the experiencer.
-
-## Mind and intellect
-
-In this framework, **mind** and **intellect** are not identical.
+In this framework, **mind** and **intellect** are distinct functions.
 
 The mind is associated with feelings, likes, dislikes, desires, impulses, and emotional reactions. The intellect is associated with discrimination, judgment, reasoning, and direction.
 
-The goal is not to destroy emotion or become coldly intellectual. The goal is integration: **emotion provides energy; intellect provides direction**.
+The objective is not to destroy emotion or become coldly intellectual. The objective is integration: **emotion provides energy; intellect provides direction**.
 
-## The four paths
+### The four paths
 
-### Bhakti Yoga — devotion
+**Bhakti Yoga — devotion:** refines and redirects emotional power toward a higher ideal.
 
-Bhakti refines and redirects emotional power toward a higher ideal rather than leaving emotion governed only by personal likes, dislikes, and attachments.
+**Jnana Yoga — knowledge:** emphasizes inquiry, discrimination, and understanding.
 
-### Jnana Yoga — knowledge
+**Karma Yoga — action:** develops the personality through purposeful action and reduced egoistic attachment.
 
-Jnana emphasizes inquiry, discrimination, and understanding. It uses the intellect to investigate the individual, the world, and ultimate Reality.
-
-### Karma Yoga — action
-
-Karma Yoga develops the personality through purposeful action. Work itself becomes a field for reducing egoistic attachment and cultivating clarity.
-
-### Hatha — compulsion as mastery
-
-In these notes, **compulsion does not mean being helplessly compelled by desire or habit**. It is used in the opposite sense: the person develops such command over the personality that the body, mind, and intellect can be consciously directed.
+**Hatha / Compulsion — mastery:** in the context of these notes, this represents sufficient discipline to consciously direct the body, mind, and intellect.
 
 ```text
 Body + Mind + Intellect
@@ -89,9 +63,8 @@ A useful distinction is:
 > **Ordinary compulsion:** My personality controls me.  
 > **Compulsion in this teaching:** I have developed sufficient mastery to direct my personality consciously.
 
-## Reflection
+## Additional Notes & References
 
-- Which faculty tends to dominate me: emotion, reasoning, action, or physical habit?
-- Is my intellect directing my mind, or merely justifying what my mind already wants?
-- Where do I lack command over my personality?
-- Which path feels most natural to me, and which path may need greater development?
+The classification of the four paths is useful as a study framework because human beings differ in temperament. Some are more naturally emotional, some intellectual, some action-oriented, and some may initially need greater discipline of the physical personality.
+
+The broader Vedantic tradition often discusses these yogas with different emphases and terminology. On this website, the interpretation above follows the meaning clarified from the class notes, especially for the term **Compulsion / Hatha**.
