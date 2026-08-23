@@ -28,6 +28,7 @@ nav:
       - Practical Vedanta: preface/practical-vedanta.md
       - Path to Self-Realization: preface/path-to-self-realization.md
       - Essence of Vedanta: preface/essence-of-vedanta.md
+  - About This Study: about.md
 
 markdown_extensions:
   - admonition
@@ -41,11 +42,9 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 
+extra:
+  generator: false
+
 copyright: >-
-  <strong>Acknowledgement &amp; Gratitude</strong><br>
-  With deep reverence and gratitude to <strong>Sri Adi Shankaracharya</strong>, one of the greatest teachers and exponents of Advaita Vedanta, whose teachings helped preserve, clarify, and transmit the profound wisdom of the Upanishads through generations.<br><br>
-  My heartfelt gratitude to <strong>Sri A. Parthasarathy</strong>, whose lifetime of dedicated study, research, teaching, and exposition of Vedanta has made this timeless knowledge accessible to the modern world. His <em>Vedanta Treatise</em> forms the principal foundation and inspiration for this personal journey of study and reflection.<br><br>
-  And with special gratitude to <strong>my teacher, the late <a href="https://www.vedantausa.org/teacher/" target="_blank" rel="noopener">Gautamji</a></strong> of Vedanta USA in New York and New Jersey, whose ability to explain profound Vedantic concepts in simple, practical, and relatable language enabled a lay student like me to begin understanding and applying these teachings in everyday life.<br><br>
-  This study journal is offered with humility and gratitude to this great tradition of teachers through whom the knowledge of Vedanta continues to be shared from generation to generation.<br><br>
-  <strong>Disclaimer</strong><br>
-  This is a personal study journal based on my handwritten notes and understanding of Vedanta. The notes have been organized, expanded, and presented with the assistance of artificial intelligence (AI). AI-generated explanations may contain errors or interpretations that do not precisely represent the original teachings. Readers are encouraged to study the original texts and teachings for authoritative understanding. This site is not affiliated with or an official publication of the authors, teachers, or organizations acknowledged above.
+  <span class="vedanta-footer"><strong>🙏 Acknowledgement &amp; Gratitude</strong> — With reverence to Sri Adi Shankaracharya, Sri A. Parthasarathy, and my teacher, the late <a href="https://www.vedantausa.org/teacher/" target="_blank" rel="noopener">Gautamji</a>. <a href="/my-journey-through-vedanta/about/#acknowledgement-gratitude">Read the full acknowledgement</a>.<br>
+  <strong>AI-Assisted Study Disclaimer</strong> — This personal study journal is developed from handwritten notes with the assistance of AI and may contain errors or interpretations. <a href="/my-journey-through-vedanta/about/#ai-assisted-study-disclaimer">Read the full disclaimer</a>.</span>
