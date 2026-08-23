@@ -1,15 +1,19 @@
 # Action and Inner Peace
 
-## From My Notes
+## Handwritten Notes / Topic
+
+![Handwritten Preface notes](../assets/handwritten-notes/preface-2026-08-23-page-01.jpg)
+
+### Clean transcription
 
 The Preface contrasts two tendencies:
 
 - **Active / Productive / Prosperous**
 - **Peaceful / Happy**
 
-The key idea is that people often believe they must choose one or the other. Vedanta attempts to bridge them.
+The key idea is that people often assume they must choose one or the other. Vedanta attempts to bridge them.
 
-## Expanded Understanding
+## AI Explanation
 
 Modern life often makes us accept an unconscious trade-off:
 
@@ -17,9 +21,9 @@ Modern life often makes us accept an unconscious trade-off:
 
 Vedanta challenges this assumption. The ideal is not inactivity. The ideal is **intense action without inner agitation**.
 
-Action and agitation are not the same. A person can be physically active while mentally composed, and another person can sit still while the mind races.
+Action and agitation are not the same. A person can be physically active while mentally composed, while another person can sit still with a racing mind.
 
-## Simple Example
+### Simple example
 
 Imagine preparing for an important presentation.
 
@@ -29,25 +33,27 @@ Another person prepares just as thoroughly, but attention remains with the prese
 
 The effort may be equally intense. The inner condition is very different.
 
-## Deeper Vedantic Connection
-
-This naturally connects with **Karma Yoga**: acting responsibly and fully, while reducing psychological dependence on the result.
-
-This does not mean results are irrelevant. Results matter for planning and learning. The question is whether our inner state becomes completely dependent on them.
-
-## Practical Application
+### Practical reflection
 
 Before a demanding activity, separate:
 
 **What is in my control?** — preparation, effort, attention, conduct.
 
-**What is not fully in my control?** — other people's reactions, timing, circumstances, final outcomes.
+**What is not fully in my control?** — other people's reactions, timing, circumstances, and the final outcome.
 
-Then return attention to the first category.
+Then return your attention to the first category.
 
-## Reflection
+## Additional Notes & References
 
-- Do I associate productivity with stress?
-- Does concern about results reduce the quality of my present action?
-- Can I work intensely without making every result a judgment of my self-worth?
-- Where do I most need to combine action with peace?
+This idea connects naturally with **Karma Yoga**: acting responsibly and fully while reducing psychological dependence on the result.
+
+This does not mean results are irrelevant. Results matter for planning, measurement, and learning. The question is whether our inner state becomes completely dependent on them.
+
+A useful distinction is:
+
+```text
+Action + attachment to outcome → agitation
+Action + clarity + reduced dependence → composure
+```
+
+This connection is supplementary context added to the handwritten notes rather than a verbatim statement from them.
