@@ -4,9 +4,9 @@ site_description: Personal study notes, reflections, and expanded understanding 
 theme:
   name: material
   features:
-    - navigation.tabs
     - navigation.sections
     - navigation.top
+    - toc.follow
     - search.suggest
     - search.highlight
   palette:
@@ -21,13 +21,7 @@ theme:
 
 nav:
   - Home: index.md
-  - Preface:
-      - Overview: preface/index.md
-      - Living Is an Art: preface/living-is-an-art.md
-      - Action and Inner Peace: preface/action-and-inner-peace.md
-      - Practical Vedanta: preface/practical-vedanta.md
-      - Path to Self-Realization: preface/path-to-self-realization.md
-      - Essence of Vedanta: preface/essence-of-vedanta.md
+  - Preface: preface/index.md
   - About This Study: about.md
 
 markdown_extensions:
