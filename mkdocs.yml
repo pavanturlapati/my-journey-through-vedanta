@@ -1,0 +1,42 @@
+site_name: My Journey Through Vedanta
+site_description: Personal study notes, reflections, and expanded understanding inspired by Vedanta Treatise by A. Parthasarathy
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: brown
+      accent: deep orange
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: brown
+      accent: amber
+
+nav:
+  - Home: index.md
+  - Preface:
+      - Overview: preface/index.md
+      - Living Is an Art: preface/living-is-an-art.md
+      - Action and Inner Peace: preface/action-and-inner-peace.md
+      - Practical Vedanta: preface/practical-vedanta.md
+      - Path to Self-Realization: preface/path-to-self-realization.md
+      - Essence of Vedanta: preface/essence-of-vedanta.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra_css:
+  - stylesheets/extra.css
