@@ -1,0 +1,24 @@
+:root {
+  --md-text-font: "Georgia", "Times New Roman", serif;
+}
+
+.md-typeset {
+  line-height: 1.75;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-family: "Georgia", "Times New Roman", serif;
+  letter-spacing: -0.01em;
+}
+
+.md-typeset blockquote {
+  font-size: 1.05em;
+  border-left-width: 0.2rem;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
