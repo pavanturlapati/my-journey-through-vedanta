@@ -22,6 +22,7 @@ theme:
 nav:
   - Home: index.md
   - Preface: preface/index.md
+  - "Chapter 1 — Role of Vedanta": chapter-01/index.md
   - About This Study: about.md
 
 markdown_extensions:
@@ -31,6 +32,7 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+      toc_depth: 2
   - pymdownx.details
   - pymdownx.superfences
 
