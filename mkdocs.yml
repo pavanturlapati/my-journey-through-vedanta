@@ -22,7 +22,16 @@ theme:
 nav:
   - Home: index.md
   - Preface: preface/index.md
-  - "Chapter 1 — Role of Vedanta": chapter-01/index.md
+  - "Chapter 1 — Role of Vedanta":
+      - Overview: chapter-01/index.md
+      - Culmination of Knowledge: chapter-01/01-culmination-of-knowledge.md
+      - Life as a Stream of Experiences: chapter-01/02-stream-of-experiences.md
+      - Human Freedom and Right Action: chapter-01/03-freedom-and-right-action.md
+      - Sanatana Dharma and the Divine Self: chapter-01/04-sanatana-dharma.md
+      - Truth and Independent Thinking: chapter-01/05-truth-and-independent-thinking.md
+      - Education over Rigidity: chapter-01/06-rigidity-and-education.md
+      - Vedanta Must Be Practiced: chapter-01/07-practice-vedanta.md
+      - Summary and Questions: chapter-01/08-summary-and-questions.md
   - About This Study: about.md
 
 markdown_extensions:
