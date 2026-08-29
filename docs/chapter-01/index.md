@@ -1,9 +1,9 @@
 # Chapter 1 — Role of Vedanta
 
-**Study sessions:** August 25–26, 2026  
+**Study sessions:** August 25, 26 and 29, 2026  
 **Primary study source:** *Vedanta Treatise* by A. Parthasarathy
 
-Chapter 1 is now organized into shorter focused readings rather than one long page. Each subpage keeps the same study pattern: **handwritten thought → AI-assisted explanation**.
+Chapter 1 is organized into shorter focused readings rather than one long page. Each subpage keeps the same study pattern: **handwritten thought → AI-assisted explanation**.
 
 ## Chapter Topics
 
@@ -14,7 +14,8 @@ Chapter 1 is now organized into shorter focused readings rather than one long pa
 5. [Truth, Preceptors, and Independent Thinking](05-truth-and-independent-thinking.md) — “truth is its authority” and Celebrities vs. Eternities.
 6. [Education over Rigidity](06-rigidity-and-education.md) — the grammar analogy, rules, desire, and understanding.
 7. [Vedanta Must Be Practiced](07-practice-vedanta.md) — the tailor analogy and day-to-day application.
-8. [Chapter Summary and Questions](08-summary-and-questions.md) — consolidated AI summary, handwritten-note archive, and five study questions.
+8. [Dynamic Living and the Faculty of Reason](09-reason-and-dynamic-living.md) — dynamic living, trained reasoning, inquiry and a daily learning cycle.
+9. [Chapter Summary and Questions](08-summary-and-questions.md) — consolidated AI summary, handwritten-note archive, and study questions.
 
 ## Reading Approach
 

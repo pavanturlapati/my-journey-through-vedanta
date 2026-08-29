@@ -12,16 +12,19 @@ Human beings possess freedom of choice, which creates the need for discriminatio
 
 The continuation deepens this role. Vedanta is described as <strong>Sanatana Dharma</strong>, eternal principles, and divinity as the core of every person. The seeker is encouraged not to depend blindly on authority: <strong>truth itself is the authority</strong>. The deliberate contrast between “celebrities” and “Eternities” redirects attention from personalities toward timeless principles.
 
-Vedanta is therefore presented as education rather than rigid prescription. Lasting transformation requires understanding, not merely obedience. Finally, the chapter insists that Vedanta must be lived. Like a tailor who applies knowledge through actual measurements, the seeker must test philosophical truths in everyday life.
+Vedanta is therefore presented as education rather than rigid prescription. Lasting transformation requires understanding, not merely obedience. The chapter also insists that Vedanta must be lived. Like a tailor who applies knowledge through actual measurements, the seeker must test philosophical truths in everyday life.
 
-> **Look within → understand the experiencer → think independently → learn eternal principles → apply them in daily life → develop right action, peace and knowledge of the Self.**
+The August 29 continuation adds another important dimension: Vedanta is **dynamic living**, not resignation. Human beings possess the faculty of reason, but reasoning itself must be trained through thinking, questioning, enquiry and practice. Spiritual study should therefore not become passive repetition of another person's views. Knowledge is meant to be examined, applied, reflected upon and gradually converted into skill in living.
+
+> **Look within → understand the experiencer → think independently → learn eternal principles → apply them in daily life → reflect → develop right action, peace and knowledge of the Self.**
 
 ## Original Handwritten Notes
 
-Chapter 1 currently contains two study sessions:
+Chapter 1 currently contains three study sessions:
 
 1. **August 25, 2026 — Role of Vedanta**
 2. **August 26, 2026 — Role of Vedanta (continued)**
+3. **August 29, 2026 — Dynamic living, reason and independent enquiry**
 
 The original handwritten photographs remain part of the study archive and can later be replaced with clearer scans without changing the study text.
 
@@ -41,3 +44,9 @@ The original handwritten photographs remain part of the study archive and can la
 
 ??? question "5. What does the tailor analogy teach?"
     Vedanta must be applied personally. Just as a tailor applies knowledge to actual measurements, the student must test philosophical principles against real thoughts, reactions, relationships and decisions in everyday life.
+
+??? question "6. Why is Vedanta described as dynamic living rather than a life of resignation?"
+    Because its principles are meant to guide thinking and action while a person participates fully in work, relationships and everyday responsibilities. The philosophy is to be lived, not reserved for withdrawal from life.
+
+??? question "7. Why must the faculty of reason be trained?"
+    Having the capacity to think does not guarantee clear reasoning. Like other skills, disciplined thinking develops through questioning, examining assumptions, applying knowledge and reflecting on experience.
