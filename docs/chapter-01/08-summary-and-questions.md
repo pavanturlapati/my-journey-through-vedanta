@@ -16,15 +16,22 @@ Vedanta is therefore presented as education rather than rigid prescription. Last
 
 The August 29 continuation adds another important dimension: Vedanta is **dynamic living**, not resignation. Human beings possess the faculty of reason, but reasoning itself must be trained through thinking, questioning, enquiry and practice. Spiritual study should therefore not become passive repetition of another person's views. Knowledge is meant to be examined, applied, reflected upon and gradually converted into skill in living.
 
-> **Look within → understand the experiencer → think independently → learn eternal principles → apply them in daily life → reflect → develop right action, peace and knowledge of the Self.**
+The August 30 continuation turns toward the mechanism of **desire**. According to the teaching captured in the notes, when the individual loses awareness of the fullness of the Self, a sense of imperfection or inner void is felt. Thought then moves outward toward objects, experiences, achievements and relationships believed capable of removing that deficiency. These thought-currents are called desires.
+
+Vedanta therefore distinguishes between using the world and depending psychologically upon it for completeness. Body, mind and intellect remain necessary instruments for living, but repeated pursuit through them cannot permanently resolve a fundamental sense of incompleteness. As spiritual understanding grows, worldly engagement need not disappear, but dependence upon the world is expected to diminish.
+
+This produces an important practical balance. Vedanta is said to serve the individual in two directions: inwardly, by reducing unnecessary desire and dependence; outwardly, by improving clarity of thought, judgment and effectiveness in one's field of activity.
+
+> **Look within → understand the experiencer → think independently → learn eternal principles → recognize the mechanism of desire → apply knowledge in daily life → reflect → act with greater clarity and less dependence → move toward peace and knowledge of the Self.**
 
 ## Original Handwritten Notes
 
-Chapter 1 currently contains three study sessions:
+Chapter 1 currently contains four study sessions:
 
 1. **August 25, 2026 — Role of Vedanta**
 2. **August 26, 2026 — Role of Vedanta (continued)**
 3. **August 29, 2026 — Dynamic living, reason and independent enquiry**
+4. **August 30, 2026 — Desire, the Self and dependence on the world**
 
 The original handwritten photographs remain part of the study archive and can later be replaced with clearer scans without changing the study text.
 
@@ -50,3 +57,9 @@ The original handwritten photographs remain part of the study archive and can la
 
 ??? question "7. Why must the faculty of reason be trained?"
     Having the capacity to think does not guarantee clear reasoning. Like other skills, disciplined thinking develops through questioning, examining assumptions, applying knowledge and reflecting on experience.
+
+??? question "8. How do today's notes explain the origin of desire?"
+    Desire begins with a felt sense of deficiency or incompleteness. Thought then moves toward an external object or experience believed capable of removing that deficiency. Vedanta asks whether this outward search is being used appropriately or whether we are asking external things to provide an inner completeness.
+
+??? question "9. Does spiritual growth mean withdrawing from worldly activity?"
+    Not necessarily. The notes describe an inverse relationship between spiritual evolution and dependence on the world, not necessarily between spiritual evolution and activity itself. A person may remain active, productive and successful while becoming less psychologically dependent upon external outcomes for peace and identity.
