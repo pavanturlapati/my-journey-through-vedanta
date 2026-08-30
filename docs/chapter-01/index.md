@@ -1,9 +1,9 @@
 # Chapter 1 — Role of Vedanta
 
-**Study sessions:** August 25, 26 and 29, 2026  
+**Study sessions:** August 25, 26, 29 and 30, 2026  
 **Primary study source:** *Vedanta Treatise* by A. Parthasarathy
 
-Chapter 1 is organized into shorter focused readings rather than one long page. Each subpage keeps the same study pattern: **handwritten thought → AI-assisted explanation**.
+Chapter 1 is organized into shorter focused readings rather than one long page. Each subpage keeps the same study pattern: **handwritten thought → AI-assisted explanation**, with personal reflections preserved separately within the topic when they arise.
 
 ## Chapter Topics
 
@@ -15,7 +15,8 @@ Chapter 1 is organized into shorter focused readings rather than one long page. 
 6. [Education over Rigidity](06-rigidity-and-education.md) — the grammar analogy, rules, desire, and understanding.
 7. [Vedanta Must Be Practiced](07-practice-vedanta.md) — the tailor analogy and day-to-day application.
 8. [Dynamic Living and the Faculty of Reason](09-reason-and-dynamic-living.md) — dynamic living, trained reasoning, inquiry and a daily learning cycle.
-9. [Chapter Summary and Questions](08-summary-and-questions.md) — consolidated AI summary, handwritten-note archive, and study questions.
+9. [Desire, the Self, and Dependence on the World](10-desire-self-and-worldly-dependence.md) — the sense of incompleteness, how desires arise, worldly dependence, and a personal reflection on why we seek.
+10. [Chapter Summary and Questions](08-summary-and-questions.md) — consolidated AI summary, handwritten-note archive, and study questions.
 
 ## Reading Approach
 
