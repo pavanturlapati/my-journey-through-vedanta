@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Opt out of AI training crawlers.
+# Assistant and AI-search lookup bots (ChatGPT-User, Claude-User,
+# OAI-SearchBot, PerplexityBot) are allowed so people can find the notes.
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: anthropic-ai
+User-agent: CCBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: meta-externalagent
+User-agent: Bytespider
+Disallow: /
+
+Sitemap: https://vedanta.pavanturlapati.com/sitemap.xml
