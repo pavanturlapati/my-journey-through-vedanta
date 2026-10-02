@@ -1,4 +1,5 @@
 site_name: My Journey Through Vedanta
+site_url: https://vedanta.pavanturlapati.com/
 site_description: Personal study notes, reflections, and expanded understanding inspired by Vedanta Treatise by A. Parthasarathy
 
 theme:
@@ -58,5 +59,5 @@ extra:
   generator: false
 
 copyright: >-
-  <span class="vedanta-footer"><strong>🙏 Acknowledgement &amp; Gratitude</strong> — With reverence to Sri Adi Shankaracharya, Sri A. Parthasarathy, and my teacher, the late <a href="https://www.vedantausa.org/teacher/" target="_blank" rel="noopener">Gautamji</a>. <a href="/my-journey-through-vedanta/about/#acknowledgement-gratitude">Read the full acknowledgement</a>.<br>
-  <strong>AI-Assisted Study Disclaimer</strong> — This personal study journal is developed from handwritten notes with the assistance of AI and may contain errors or interpretations. <a href="/my-journey-through-vedanta/about/#ai-assisted-study-disclaimer">Read the full disclaimer</a>.</span>
+  <span class="vedanta-footer"><strong>🙏 Acknowledgement &amp; Gratitude</strong> — With reverence to Sri Adi Shankaracharya, Sri A. Parthasarathy, and my teacher, the late <a href="https://www.vedantausa.org/teacher/" target="_blank" rel="noopener">Gautamji</a>. <a href="/about/#acknowledgement-gratitude">Read the full acknowledgement</a>.<br>
+  <strong>AI-Assisted Study Disclaimer</strong> — This personal study journal is developed from handwritten notes with the assistance of AI and may contain errors or interpretations. <a href="/about/#ai-assisted-study-disclaimer">Read the full disclaimer</a>.</span>
