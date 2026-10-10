@@ -40,6 +40,7 @@ nav:
       - "Why Am I Going to the Temple?": reflections/2026-08-29-why-am-i-going-to-temple.md
       - "Who Is God?": reflections/2026-08-30-who-is-god.md
   - About This Study: about.md
+  - Privacy: privacy.md
 
 markdown_extensions:
   - admonition
@@ -57,7 +58,25 @@ extra_css:
 
 extra:
   generator: false
+  # Analytics and cookie banner. Uncomment BOTH blocks together once you have a
+  # Google Analytics 4 Measurement ID (G-XXXXXXXXXX). The banner only appears
+  # when analytics is set, and Google Analytics loads only after a visitor
+  # clicks Accept.
+  # analytics:
+  #   provider: google
+  #   property: G-XXXXXXXXXX
+  # consent:
+  #   title: Cookie consent
+  #   description: >-
+  #     I use Google Analytics, only if you allow it, to see which pages are
+  #     read. See the <a href="/privacy/">privacy page</a>.
+  #   cookies:
+  #     analytics: Google Analytics
+  #   actions:
+  #     - accept
+  #     - reject
 
 copyright: >-
   <span class="vedanta-footer"><strong>🙏 Acknowledgement &amp; Gratitude</strong> — With reverence to Sri Adi Shankaracharya, Sri A. Parthasarathy, and my teacher, the late <a href="https://www.vedantausa.org/teacher/" target="_blank" rel="noopener">Gautamji</a>. <a href="/about/#acknowledgement-gratitude">Read the full acknowledgement</a>.<br>
-  <strong>AI-Assisted Study Disclaimer</strong> — This personal study journal is developed from handwritten notes with the assistance of AI and may contain errors or interpretations. <a href="/about/#ai-assisted-study-disclaimer">Read the full disclaimer</a>.</span>
+  <strong>AI-Assisted Study Disclaimer</strong> — This personal study journal is developed from handwritten notes with the assistance of AI and may contain errors or interpretations. <a href="/about/#ai-assisted-study-disclaimer">Read the full disclaimer</a>.<br>
+    <a href="/privacy/">Privacy</a></span>
