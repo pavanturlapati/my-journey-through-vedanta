@@ -65,6 +65,9 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/reflection-journal.js
+
 extra:
   generator: false
   # Analytics and cookie banner. Google Analytics loads only after a visitor

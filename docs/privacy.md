@@ -14,6 +14,7 @@ To change your choice at any time, use [Change cookie settings](#__consent).
 
 ## Other things to know
 
+- **Reflection answer boxes.** Some reflection articles let you type answers to the questions. What you type is saved only in your own browser (local storage) so a refresh does not lose it. It is never sent to me or to anyone else. You can remove it with the "Clear my answers" button on the page or by clearing your browser's site data.
 - Links to other sites are governed by those sites' own privacy policies.
 - The site is hosted on GitHub Pages, which may keep standard server logs, such as IP addresses, under GitHub's own policy.
 - My main website, [pavanturlapati.com](https://pavanturlapati.com/privacy/), has its own privacy page.

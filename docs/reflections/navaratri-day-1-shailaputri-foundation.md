@@ -140,6 +140,8 @@ Write a few words for each prompt. “I don't know yet” is a valid answer.
 
 You do not have to answer all eight questions in one sitting. Choose one that feels alive for you and return to the others later.
 
+<div class="reflection-journal" data-key="navaratri-day-1" data-title="Day 1 of Navaratri — Shailaputri: What Is the Foundation of My Life?"></div>
+
 ## 9. A simple way to write your reflection
 
 Use this short structure if you find it helpful:

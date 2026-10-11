@@ -54,6 +54,43 @@
   margin-top: 0;
 }
 
+.reflection-journal {
+  margin: 1.5rem 0 2rem;
+}
+
+.reflection-journal .rj-q {
+  margin: 1.1rem 0;
+}
+
+.reflection-journal .rj-q label {
+  display: block;
+  margin-bottom: 0.3rem;
+}
+
+.reflection-journal textarea {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.6rem 0.75rem;
+  border: 0.05rem solid color-mix(in srgb, var(--md-default-fg-color) 30%, transparent);
+  border-radius: 0.2rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  font: inherit;
+  line-height: 1.6;
+  resize: vertical;
+}
+
+.reflection-journal textarea:focus {
+  outline: 0.1rem solid var(--md-accent-fg-color);
+  outline-offset: 0.05rem;
+}
+
+.reflection-journal .rj-status {
+  min-height: 1.4rem;
+  margin: 0.6rem 0 0;
+  font-size: 0.85rem;
+}
+
 .md-footer-meta__inner {
   padding-top: 1rem;
   padding-bottom: 1rem;
