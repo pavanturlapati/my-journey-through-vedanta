@@ -6,7 +6,9 @@ Navaratri is a beautiful subject to explore through Vedanta because it offers tw
 
 This article is a learning aid, not a definitive account of every Hindu tradition. Customs and interpretations vary by region, lineage, and family. The Vedantic reflections below are offered as a way to contemplate the festival; they should not be confused with a single universally prescribed scriptural interpretation.
 
-![Goddess Durga, Lakshmi and Saraswati represented in Hindu devotional art](https://images.unsplash.com/photo-1604608672516-8d9d3e7a6c4f?auto=format&fit=crop&w=1400&q=85)
+![Goddess Durga worshipped during Navaratri](https://commons.wikimedia.org/wiki/Special:FilePath/Goddess_Durga_Matha.jpg?width=1200)
+
+*Image: Goddess Durga worshipped during Navaratri. [Image source and license](https://commons.wikimedia.org/wiki/File:Goddess_Durga_Matha.jpg) (CC BY-SA 4.0).*
 
 ## 1. What is Navaratri?
 
@@ -142,8 +144,16 @@ Religious observances may include prayer, fasting, temple visits, chanting, offe
 
 - **Puja and prayer:** Many families establish a sacred space, light a lamp, and worship the Goddess. Some perform *kalash sthapana*, installing a ritual pot at the beginning of the observance.
 - **Garba and Dandiya:** In Gujarat and many communities elsewhere, people gather for devotional and celebratory dances.
+
+  ![Garba folk dance during Navaratri](https://commons.wikimedia.org/wiki/Special:FilePath/Garba_Folk_Dance.jpg?width=1000)
+
+  *Image: Garba folk dance. [Image source and license information](https://commons.wikimedia.org/wiki/File:Garba_Folk_Dance.jpg).*
 - **Durga Puja:** In West Bengal and other regions, the season features elaborate worship of Durga, artistic displays, and community celebrations.
 - **Golu:** In parts of South India, families arrange dolls on tiered displays, invite visitors, and celebrate through music, devotion, and shared food.
+
+  ![Golu doll display for Navaratri](https://commons.wikimedia.org/wiki/Special:FilePath/7_steps_Golu_in_Melbourne_Australia_2023.jpg?width=1000)
+
+  *Image: Golu doll display. [Image source and license information](https://commons.wikimedia.org/wiki/Category:Navaratri).*
 - **Fasting and offerings:** Some devotees observe dietary restrictions or fasts; practices depend on personal, family, and regional tradition.
 
 Not every Hindu family follows the same rituals. Some observe strict fasting, others pray daily without fasting, and others primarily participate in cultural and community celebrations.
