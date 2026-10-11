@@ -15,9 +15,9 @@ Shailaputri is worshipped as the first of the nine forms of Goddess Durga, the N
 
 In traditional images, Shailaputri is often shown riding a bull and holding a trident and a lotus. Devotees worship her as a divine form in her own right. Her story and imagery belong first to Hindu religious tradition; the personal reflections in this article are an additional way to contemplate the day, not a replacement for devotion or a claim that every symbol has one universally accepted meaning.
 
-![Shailaputri, the first form of the Navadurga](https://commons.wikimedia.org/wiki/Special:FilePath/Shailaputri.jpg?width=1200)
+![Shailaputri, the first form of the Navadurga](https://commons.wikimedia.org/wiki/Special:FilePath/Shailaputri_Sanghasri_2010_Arnab_Dutta.JPG?width=1200)
 
-*Image: Shailaputri. If this image does not load in a particular browser, the text remains complete; the Wikimedia Commons file page can be searched for alternate depictions.*
+*Image: Devi Shailaputri, Sanghasri, Kalighat, Kolkata, 2010. Photo by [Jonoikobangali](https://commons.wikimedia.org/wiki/User:Jonoikobangali) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shailaputri_Sanghasri_2010_Arnab_Dutta.JPG), licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).*
 
 ## 2. Why begin with the Daughter of the Mountain?
 
@@ -168,5 +168,3 @@ A useful beginning is not a perfect answer. It is a question you are willing to 
 ## Acknowledgement and study disclaimer
 
 This article is an AI-assisted personal study reflection intended to support learning and contemplation. The symbolic applications and reflective questions are interpretive suggestions, not a claim that all Hindu traditions or Vedantic schools teach them in exactly this way. Religious customs and narratives vary by region, lineage, and family.
-
-With reverence and gratitude to Sri Adi Shankaracharya; Sri A. Parthasarathy, author and teacher of Vedanta; and my teacher, the late Gautamji of Vedanta USA, whose explanations helped make these ideas more accessible.

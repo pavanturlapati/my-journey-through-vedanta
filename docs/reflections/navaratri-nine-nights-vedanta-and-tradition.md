@@ -221,5 +221,3 @@ That is where Navaratri can become more than a festival on the calendar: it can 
 ## A note on this article
 
 This article is an AI-assisted personal study reflection. It brings together a general explanation of Hindu Navaratri traditions and a suggested Vedantic interpretation. The reflective framework is offered for learning and contemplation, not as a substitute for traditional sources, scripture, or guidance from a qualified teacher.
-
-*With reverence and gratitude to Sri Adi Shankaracharya, Sri A. Parthasarathy, and my teacher, the late Gautamji of Vedanta USA.*
