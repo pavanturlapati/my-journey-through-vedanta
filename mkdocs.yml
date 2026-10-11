@@ -59,23 +59,21 @@ extra_css:
 
 extra:
   generator: false
-  # Analytics and cookie banner. Uncomment BOTH blocks together once you have a
-  # Google Analytics 4 Measurement ID (G-XXXXXXXXXX). The banner only appears
-  # when analytics is set, and Google Analytics loads only after a visitor
-  # clicks Accept.
-  # analytics:
-  #   provider: google
-  #   property: G-XXXXXXXXXX
-  # consent:
-  #   title: Cookie consent
-  #   description: >-
-  #     I use Google Analytics, only if you allow it, to see which pages are
-  #     read. See the <a href="/privacy/">privacy page</a>.
-  #   cookies:
-  #     analytics: Google Analytics
-  #   actions:
-  #     - accept
-  #     - reject
+  # Analytics and cookie banner. Google Analytics loads only after a visitor
+  # clicks Accept. Cloudflare Web Analytics (cookie-free) is in overrides/.
+  analytics:
+    provider: google
+    property: G-4D70KGSQWE
+  consent:
+    title: Cookie consent
+    description: >-
+      I use Google Analytics, only if you allow it, to see which pages are
+      read. See the <a href="/privacy/">privacy page</a>.
+    cookies:
+      analytics: Google Analytics
+    actions:
+      - accept
+      - reject
 
 copyright: >-
   <span class="vedanta-footer"><strong>🙏 Acknowledgement &amp; Gratitude</strong> — With reverence to Sri Adi Shankaracharya, Sri A. Parthasarathy, and my teacher, the late <a href="https://www.vedantausa.org/teacher/" target="_blank" rel="noopener">Gautamji</a>. <a href="/about/#acknowledgement-gratitude">Read the full acknowledgement</a>.<br>
