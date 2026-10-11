@@ -14,7 +14,7 @@ Navaratri, "nine nights", is a festival devoted to the Divine Mother in her nine
 
 Navaratri is more than a ritual calendar. This introduction sets out what the nine nights mean in tradition, and what Vedanta can add to them.
 
-[Read: Navaratri — Nine Nights, Vedanta and Tradition →](https://vedanta.pavanturlapati.com/reflections/navaratri-nine-nights-vedanta-and-tradition/)
+[Read: Navaratri — Nine Nights, Vedanta and Tradition →](navaratri-nine-nights-vedanta-and-tradition.md)
 
 ---
 
@@ -22,7 +22,7 @@ Navaratri is more than a ritual calendar. This introduction sets out what the ni
 
 Shailaputri, the "daughter of the mountain", is worshipped on the first day. She stands for steadiness and for the foundation on which every later step depends. This reflection asks what it means to begin the inner journey on firm ground.
 
-[Read Day 1: Shailaputri and the Foundation →](https://vedanta.pavanturlapati.com/reflections/navaratri-day-1-shailaputri-foundation/)
+[Read Day 1: Shailaputri and the Foundation →](navaratri-day-1-shailaputri-foundation.md)
 
 ---
 
