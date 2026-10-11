@@ -54,22 +54,6 @@
   margin-top: 0;
 }
 
-.audio-narration {
-  margin: 0.5rem 0 1.5rem;
-}
-
-.audio-narration p {
-  margin: 0 0 0.35rem;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  font-size: 0.8rem;
-  opacity: 0.8;
-}
-
-.audio-narration audio {
-  width: 100%;
-  max-width: 32rem;
-}
-
 .md-footer-meta__inner {
   padding-top: 1rem;
   padding-bottom: 1rem;

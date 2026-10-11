@@ -1,13 +1,5 @@
 # Preface
 
-<div class="audio-narration" markdown="1">
-
-**Listen to this chapter**
-
-<audio controls preload="none" src="../audio/preface/index.mp3"></audio>
-
-</div>
-
 **Study date:** Sunday, August 23, 2026  
 **Primary study source:** *Vedanta Treatise* by A. Parthasarathy  
 **Learning context:** Personal handwritten notes from Vedanta study
