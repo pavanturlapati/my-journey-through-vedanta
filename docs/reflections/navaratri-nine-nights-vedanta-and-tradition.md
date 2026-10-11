@@ -1,5 +1,7 @@
 # Navaratri: Nine Nights, Two Ways of Understanding
 
+*Part of the [Navaratri series](navaratri.md).*
+
 > A personal study reflection exploring Navaratri through two complementary lenses: the religious traditions of Hinduism and the inward inquiry encouraged by Vedanta.
 
 Navaratri is a beautiful subject to explore through Vedanta because it offers two ways of understanding the same festival: **what we worship outwardly and what we can learn inwardly**.

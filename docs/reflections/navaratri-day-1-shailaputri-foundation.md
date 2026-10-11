@@ -1,5 +1,7 @@
 # Day 1 of Navaratri — Shailaputri: What Is the Foundation of My Life?
 
+*Part of the [Navaratri series](navaratri.md).*
+
 > **A guided reflection for the first day of Navaratri**  
 > Explore the traditional story of Shailaputri, the Daughter of the Mountain, and use its imagery as a starting point for personal inquiry. The questions are invitations, not tests. You do not need to reach a final answer today.
 

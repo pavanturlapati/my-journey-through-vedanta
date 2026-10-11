@@ -26,9 +26,9 @@ Use `templates/hub-page.md` as the starting point for a new hub.
 
 ## Link rules
 
-- If the article is **not** in this repo, use its full live URL: `https://vedanta.pavanturlapati.com/reflections/<slug>/`.
-- If the article **is** in this repo, use a relative `.md` link so `mkdocs build --strict` checks it.
-- Each article should link back to the hub with a line such as `Part of the [Navaratri series](/reflections/navaratri/)`. Add it if the article is in this repo. Otherwise remind the user.
+- Articles live in this repo under `docs/reflections/`, so use a **relative `.md` link** (for example `navaratri-day-2-brahmacharini.md`). `mkdocs build --strict` then catches broken links.
+- Use a full live URL (`https://vedanta.pavanturlapati.com/reflections/<slug>/`) only for a page that is not in this repo.
+- Every article in a series must have `*Part of the [<Series name>](<hub>.md).*` directly under its H1 title. Add it when you add the article. Also add the article to `mkdocs.yml` under the hub's nav entry and to the nested list in `docs/reflections/index.md`.
 
 ## Content rules
 
