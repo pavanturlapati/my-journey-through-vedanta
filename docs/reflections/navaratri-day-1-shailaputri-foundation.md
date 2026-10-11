@@ -129,18 +129,23 @@ Write a few words for each prompt. “I don't know yet” is a valid answer.
 
 ### Questions for reflection
 
+#### Foundation
+
 1. **What is the foundation of my life today?** What do I currently rely on most when making decisions or facing difficulty?
 2. **What would I want to remain unchanged if my circumstances changed?** Consider qualities, commitments, relationships, or ways of responding—not only possessions or roles.
 3. **What gives that something its importance?** Does it matter because it brings joy, helps others, gives me identity, earns recognition, or something else?
-4. **What do I want to offer others?** Knowledge, practical help, listening, encouragement, example, or the ability to find their own answers?
-5. **How do I feel when my help is not needed anymore?** What might that feeling tell me about service, usefulness, and identity?
-6. **Do I want to become wise, to be useful through knowledge, or to be remembered as knowledgeable?** Are these different wishes for me?
-7. **What remains when a role or achievement changes?** What do I notice about myself in that moment?
-8. **What am I still searching for?** Can I allow the question to remain open without rushing to manufacture an answer?
+4. **What remains when a role or achievement changes?** What do I notice about myself in that moment?
+5. **What am I still searching for?** Can I allow the question to remain open without rushing to manufacture an answer?
+
+#### Going deeper: service and recognition
+
+6. **What do I want to offer others?** Knowledge, practical help, listening, encouragement, example, or the ability to find their own answers?
+7. **How do I feel when my help is not needed anymore?** What might that feeling tell me about service, usefulness, and identity?
+8. **Do I want to become wise, to be useful through knowledge, or to be remembered as knowledgeable?** Are these different wishes for me?
 
 You do not have to answer all eight questions in one sitting. Choose one that feels alive for you and return to the others later.
 
-<div class="reflection-journal" data-key="navaratri-day-1" data-title="Day 1 of Navaratri — Shailaputri: What Is the Foundation of My Life?"></div>
+<div class="reflection-journal" data-key="navaratri-day-1" data-title="Day 1 of Navaratri — Shailaputri: What Is the Foundation of My Life?" data-hints="my family, my integrity, my faith, or “I'm not sure yet”|honesty, a commitment to my children, how I treat people when things are hard|it brings me peace, it helps others, it feels true even when nobody is watching|when I changed jobs, I still felt like myself in how I listen and care|I'm still wondering who I am without my title, and that is okay|listening, practical help, or helping someone find their own answer|a little sad at first, then glad they can manage on their own|mostly to be useful, though I notice I also like being appreciated"></div>
 
 ## 9. A simple way to write your reflection
 
