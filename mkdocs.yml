@@ -4,6 +4,7 @@ site_description: Personal study notes, reflections, and expanded understanding 
 
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.sections
     - navigation.top

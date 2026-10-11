@@ -4,7 +4,9 @@ This is a personal study notebook. I collect as little as I can, and I don't sel
 
 ## What may be collected
 
-This site may use **Google Analytics** to see how many people visit, which pages are read and for how long, and roughly where visitors are from (country or city level), along with browser and device type. It sets cookies in your browser.
+**Cloudflare Web Analytics.** Counts visits and page views to understand which pages are read. It does not use cookies, does not track you across sites, and does not build a profile of you.
+
+This site may also use **Google Analytics** to see how many people visit, which pages are read and for how long, and roughly where visitors are from (country or city level), along with browser and device type. It sets cookies in your browser.
 
 Google Analytics loads **only if you click Accept** on the cookie banner. If you decline, it never loads. Your choice is stored in your own browser, and nowhere else.
 
