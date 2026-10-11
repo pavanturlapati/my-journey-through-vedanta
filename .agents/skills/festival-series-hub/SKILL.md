@@ -40,6 +40,15 @@ Use `templates/hub-page.md` as the starting point for a new hub.
 
 Reflections in `mkdocs.yml` are grouped as: Overview, **Festivals** (series hubs), **Personal Questions** (single reflections). Keep `docs/reflections/index.md` in step with the nav.
 
+## Journal entry on the main site
+
+Each series also gets one entry in the main site (`pt-site`, a separate repo at `../pt-site`) that routes readers to the Vedanta hub.
+
+1. Create `src/content/journal/<series-slug>.md` in `pt-site`. Frontmatter keys are strict: `title`, `description`, `date`, `tags` and optional `draft`. Use `tags: ["vedanta"]`, because tags must come from `journalTags` in `src/config.ts`.
+2. Write 2 short paragraphs about the festival and the series, mention that the articles are AI-assisted study notes, then a "Read the series" list with the **hub link first** and one link per published article. Use full live URLs, since the repos are separate.
+3. Link the hub prominently. Add a new article link to the entry only if the user asks, because the hub is the one page that is kept up to date.
+4. Run `npm run build` in `pt-site` to check it. Commit and push there separately, only when the user asks. That repo has its own deploy.
+
 ## Publish checklist
 
 1. Run `mkdocs build --strict` (after `pip install -r requirements.txt`) and fix any warnings.
