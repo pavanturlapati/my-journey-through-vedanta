@@ -4,6 +4,11 @@ These pages capture **personal questions and reflections that arise during the s
 
 A reflection may begin with an unresolved question, change as understanding develops, and remain open for later study. That is part of the purpose of this section.
 
-## Reflections
+## Festivals
+
+- [Navaratri — Nine Nights, Nine Reflections — October 2026](navaratri.md) *(in progress, updated daily)*
+
+## Personal Questions
 
 - [Why Am I Going to the Temple? — August 29, 2026](2026-08-29-why-am-i-going-to-temple.md)
+- [Who Is God? — August 30, 2026](2026-08-30-who-is-god.md)

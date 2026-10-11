@@ -7,6 +7,8 @@ theme:
   custom_dir: overrides
   features:
     - navigation.sections
+    - navigation.indexes
+    - navigation.tracking
     - navigation.top
     - toc.follow
     - search.suggest
@@ -38,8 +40,11 @@ nav:
       - Summary and Questions: chapter-01/08-summary-and-questions.md
   - Reflections:
       - Overview: reflections/index.md
-      - "Why Am I Going to the Temple?": reflections/2026-08-29-why-am-i-going-to-temple.md
-      - "Who Is God?": reflections/2026-08-30-who-is-god.md
+      - Festivals:
+          - "Navaratri 2026 (Series)": reflections/navaratri.md
+      - Personal Questions:
+          - "Why Am I Going to the Temple?": reflections/2026-08-29-why-am-i-going-to-temple.md
+          - "Who Is God?": reflections/2026-08-30-who-is-god.md
   - About This Study: about.md
   - Privacy: privacy.md
 
