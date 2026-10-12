@@ -20,9 +20,10 @@ Use `templates/hub-page.md` as the starting point for a new hub.
 ## Publishing a new day
 
 1. Replace `*Coming soon.*` under that day with a blurb of **2 lines** and a link. Each blurb should name the deity or theme, the quality she stands for, and one Vedantic angle. Don't open every blurb the same way.
-2. Update `Progress` (for example, "Day 2 of 9 published") and `Last updated`.
-3. Use descriptive link text, such as `[Read Day 2: Brahmacharini and Discipline →](URL)`, never a bare "Read more".
-4. Ask the user for the article URL. Never guess a slug.
+2. Add the day to the main-site Journal entry too (see "Journal entry on the main site" below).
+3. Update `Progress` (for example, "Day 2 of 9 published") and `Last updated`.
+4. Use descriptive link text, such as `[Read Day 2: Brahmacharini and Discipline →](URL)`, never a bare "Read more".
+5. Ask the user for the article URL. Never guess a slug.
 
 ## Daily article template
 
@@ -79,7 +80,7 @@ Each series also gets one entry in the main site (`pt-site`, a separate repo at 
 
 1. Create `src/content/journal/<series-slug>.md` in `pt-site`. Frontmatter keys are strict: `title`, `description`, `date`, `tags` and optional `draft`. Use `tags: ["vedanta"]`, because tags must come from `journalTags` in `src/config.ts`.
 2. Write 2 short paragraphs about the festival and the series, mention that the articles are AI-assisted study notes, then a "Read the series" list with the **hub link first** and one link per published article. Use full live URLs, since the repos are separate.
-3. Link the hub prominently. Add a new article link to the entry only if the user asks, because the hub is the one page that is kept up to date.
+3. Link the hub prominently. **Add each newly published day to this entry as part of publishing it** (one line: link plus a short description), in the same pass as the hub update. The user chose this so the Journal page never goes stale. Remember it's a separate repo, so it needs its own build, commit and push, and a `git pull --rebase` may be needed because an automated Letterboxd sync commits to that repo.
 4. Run `npm run build` in `pt-site` to check it. Commit and push there separately, only when the user asks. That repo has its own deploy.
 
 ## Publish checklist
