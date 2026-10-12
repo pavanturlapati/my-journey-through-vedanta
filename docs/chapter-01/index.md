@@ -16,7 +16,8 @@ Chapter 1 is organized into shorter focused readings rather than one long page. 
 7. [Vedanta Must Be Practiced](07-practice-vedanta.md) — the tailor analogy and day-to-day application.
 8. [Dynamic Living and the Faculty of Reason](09-reason-and-dynamic-living.md) — dynamic living, trained reasoning, inquiry and a daily learning cycle.
 9. [Desire, the Self, and Dependence on the World](10-desire-self-and-worldly-dependence.md) — the sense of incompleteness, how desires arise, worldly dependence, and a personal reflection on why we seek.
-10. [Chapter Summary and Questions](08-summary-and-questions.md) — consolidated AI summary, handwritten-note archive, and study questions.
+10. [Concentration, Consistency, and Cooperation](11-concentration-consistency-cooperation.md) — three practical disciplines, the source of happiness, and the chapter-closing reflection.
+11. [Chapter Summary and Questions](08-summary-and-questions.md) — consolidated AI summary, handwritten-note archive, and study questions.
 
 ## Reading Approach
 
