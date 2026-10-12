@@ -36,7 +36,7 @@ Rules:
 - Verify mantras, scripture quotes and stories before writing. Hedge customs with "commonly" or "in some regions", and don't state unverified offerings or colours as fact.
 - Don't state a calendar date. Tithi dates shift.
 - Don't add the "reverence and gratitude" line. It was removed on purpose.
-- Day 1 predates this template. It has extra sections on helping others and recognition, and a "simple way to write" section. It was left unchanged.
+- Day 1 was refactored to this template on October 12, 2026. Day 2 is the reference example.
 
 ## Link rules
 
