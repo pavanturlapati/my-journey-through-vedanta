@@ -7,11 +7,19 @@ WORKFLOW when sharing a new handwritten page:
  2. Image is processed (resize + strip EXIF) with:
       python tools/add_handwritten_image.py <image> <chapter> <YYYY-MM-DD> [page]
     which writes docs/assets/handwritten-notes/chapter-NN-YYYY-MM-DD-page-NN.jpg
- 3. Page is created at docs/chapter-NN/NN-short-slug.md (next unused number;
-    the chapter summary is always the highest number, e.g. 12-summary; when adding
-        a page, rename the summary to the next number and update its links + the redirect in mkdocs.yml).
+ 3. Page is created at docs/chapter-NN/NN-short-slug.md using the next unused
+    number. The chapter summary always holds the highest number (currently
+    12-summary-and-questions.md). When adding a page:
+      a. rename the summary to the next number (e.g. 12 -> 13),
+      b. update its links (nav, chapter index) and add a redirect for the old
+         URL under plugins > redirects > redirect_maps in mkdocs.yml.
  4. Update: mkdocs.yml nav, docs/chapter-NN/index.md (topic list + session dates),
-    and docs/chapter-NN/08-summary-and-questions.md (summary paragraph + session list).
+    and the chapter summary page (new summary paragraph, session list entry
+    linking to the page's #original-handwritten-page, and new Q&A numbered in order).
+ 5. Run `mkdocs build --strict` and fix anything it reports before committing.
+
+BEFORE EDITING: run `git pull --rebase origin main`. The remote has had
+edits made outside this workflow; check for an existing version of the page.
 
 RULES
  - Transcribe the handwriting faithfully (fix only spelling); keep quotes,
@@ -23,6 +31,12 @@ RULES
  - Personal reflections get their own "My Reflection - ..." section.
  - Use `??? question "..."` collapsibles (answer indented 4 spaces).
  - Image goes last, under "Original Handwritten Page", clickable.
+ - Only the last page of a chapter should say "final"; otherwise say "continuation".
+ - Closing/summary text that is not from the handwriting goes inside an ai-note div.
+ - Never write literal "\n" in markdown; use real line breaks.
+ - Nav entries in mkdocs.yml: keep indentation identical to sibling lines; quote
+   titles containing a colon.
+ - Commit message style: short imperative subject, no trailing period.
 -->
 
 # {{ Page title }}
