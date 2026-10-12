@@ -24,6 +24,20 @@ Use `templates/hub-page.md` as the starting point for a new hub.
 3. Use descriptive link text, such as `[Read Day 2: Brahmacharini and Discipline →](URL)`, never a bare "Read more".
 4. Ask the user for the article URL. Never guess a slug.
 
+## Daily article template
+
+Every day article follows `templates/day-article.md`. Fixed section order: (1) how the day is observed, (2) the story, (3) the form and symbols, (4) everyday example, (5) Vedantic lens, (6) questions and the answer box, (7) the invitation, then the acknowledgement and study disclaimer, with nothing after it.
+
+Rules:
+
+- H1 format: `Day N of Navaratri — <Form>: <question>?`, with the back-link directly under it.
+- Exactly 5 questions, all on the day's theme, and 5 generic hints. No side topics. Move them to a later day if needed.
+- One credited public image (Wikimedia Commons). Check the file name with `curl -I` and the licence with the Commons API. Use the credit format in the template.
+- Verify mantras, scripture quotes and stories before writing. Hedge customs with "commonly" or "in some regions", and don't state unverified offerings or colours as fact.
+- Don't state a calendar date. Tithi dates shift.
+- Don't add the "reverence and gratitude" line. It was removed on purpose.
+- Day 1 predates this template. It has extra sections on helping others and recognition, and a "simple way to write" section. It was left unchanged.
+
 ## Link rules
 
 - Articles live in this repo under `docs/reflections/`, so use a **relative `.md` link** (for example `navaratri-day-2-brahmacharini.md`). `mkdocs build --strict` then catches broken links.

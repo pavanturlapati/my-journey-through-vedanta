@@ -1,8 +1,8 @@
 # Navaratri — Nine Nights, Nine Reflections
 
 **Series started:** October 11, 2026 (first day of Navaratri)  
-**Progress:** Day 1 of 9 published  
-**Last updated:** October 11, 2026
+**Progress:** Day 2 of 9 published  
+**Last updated:** October 12, 2026
 
 This page is the home for my Navaratri reflections. Each day I look at one form of the Divine Mother through the lens of Vedanta and tradition, and I add the new article here as soon as it is published. Bookmark this page to follow the series.
 
@@ -28,7 +28,11 @@ Shailaputri, the "daughter of the mountain", is worshipped on the first day. She
 
 ## Day 2 — Brahmacharini
 
-*Coming soon.*
+Brahmacharini, the form of the Goddess who walks barefoot with a rosary and a water pot, is worshipped on the second day. This article covers customs, the story of Parvati's penance, the meaning of her symbols, and *tapas* as the steady training of the mind.
+
+[Read Day 2: Brahmacharini and Steady Effort →](navaratri-day-2-brahmacharini-steady-effort.md)
+
+---
 
 ## Day 3 — Chandraghanta
 
