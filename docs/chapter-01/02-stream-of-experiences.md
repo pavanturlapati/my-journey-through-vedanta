@@ -1,3 +1,7 @@
+---
+description: Notes on life as a stream of experiences (anubhava dhara), and why the sages studied the individual.
+---
+
 # Life as a Stream of Experiences
 
 ## Anubhava Dhara

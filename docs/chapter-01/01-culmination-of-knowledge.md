@@ -1,3 +1,7 @@
+---
+description: Notes on Vedanta as the culmination of knowledge, and the real Self and the intrinsic wealth within.
+---
+
 # Culmination of Knowledge
 
 ## Vedanta and the Real Self

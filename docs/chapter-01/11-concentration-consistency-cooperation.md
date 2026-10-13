@@ -1,3 +1,7 @@
+---
+description: Notes on concentration, consistency and cooperation, and on happiness as native to the Self.
+---
+
 # Concentration, Consistency, Cooperation, and the Source of Happiness
 
 **Study session:** September 1, 2026 — 7:30 AM EST

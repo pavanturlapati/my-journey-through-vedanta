@@ -1,3 +1,7 @@
+---
+description: Preface notes on the path from seeker to Self-realization.
+---
+
 # From Seeker to Self-Realization
 
 ## Handwritten Notes / Topic

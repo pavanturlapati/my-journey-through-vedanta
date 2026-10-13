@@ -1,3 +1,7 @@
+---
+description: Preface notes on why Vedanta is meant to be practical in everyday life.
+---
+
 # Practical Vedanta
 
 ## Handwritten Notes / Topic

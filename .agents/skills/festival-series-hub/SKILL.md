@@ -51,6 +51,7 @@ Rules:
 - Keep blurbs short, distinct and faithful to the actual article. Ask the user for the article summary if you haven't seen it.
 - Don't invent doctrine. Where Vedanta is connected to a tradition, say it is a reading or reflection.
 - Don't put dates on unpublished days.
+- Every new page (hub, day article, or any article) must start with front matter containing a one-sentence `description:` of under about 160 characters, placed above the H1. It feeds social share previews and the RSS feed. Format: `Day N of Navaratri: <Form> and <theme>.` for day articles, and a plain summary of the page for hubs. Match the style of existing pages.
 
 ## Navigation structure
 

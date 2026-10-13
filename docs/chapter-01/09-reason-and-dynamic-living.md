@@ -1,3 +1,7 @@
+---
+description: Notes on Vedanta as dynamic living and the need to train the faculty of reason.
+---
+
 # Dynamic Living and the Faculty of Reason
 
 **Study session:** August 29, 2026 — Saturday, 8:30 AM

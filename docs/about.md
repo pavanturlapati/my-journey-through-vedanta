@@ -1,3 +1,7 @@
+---
+description: Why this personal Vedanta study journal exists and how its handwritten notes and AI-assisted explanations are kept separate.
+---
+
 # About This Study
 
 ## Purpose

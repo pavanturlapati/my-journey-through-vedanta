@@ -1,3 +1,7 @@
+---
+description: Preface notes on living as an art, a skill and a technique.
+---
+
 # Living Is an Art, a Skill, and a Technique
 
 ## Handwritten Notes / Topic

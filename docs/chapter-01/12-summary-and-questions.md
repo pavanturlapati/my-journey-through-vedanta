@@ -1,3 +1,7 @@
+---
+description: A summary of Chapter 1 with the original handwritten notes and questions to check understanding.
+---
+
 # Chapter 1 Summary and Questions
 
 ## AI Summary

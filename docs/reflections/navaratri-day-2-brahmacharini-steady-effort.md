@@ -1,3 +1,7 @@
+---
+description: Day 2 of Navaratri: Brahmacharini, penance, and what steady effort looks like.
+---
+
 # Day 2 of Navaratri — Brahmacharini: What Does Steady Effort Look Like?
 
 *Part of the [Navaratri series](navaratri.md).*

@@ -1,3 +1,7 @@
+---
+description: Notes on why truth is its own authority, and the role of preceptors and independent thinking.
+---
+
 # Truth, Preceptors, and Independent Thinking
 
 ## Truth Is Its Authority

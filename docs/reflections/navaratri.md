@@ -1,3 +1,7 @@
+---
+description: Start here for the Navaratri series: nine nights, nine reflections, each with a story, a symbol and a Vedantic lens.
+---
+
 # Navaratri — Nine Nights, Nine Reflections
 
 **Series started:** October 11, 2026 (first day of Navaratri)  

@@ -1,3 +1,7 @@
+---
+description: The preface to this Vedanta study journal, with reflections on what Vedanta is for.
+---
+
 # Preface
 
 **Study date:** Sunday, August 23, 2026  

@@ -1,3 +1,7 @@
+---
+description: Notes on Sanatana Dharma as eternal principles and the divine Self within.
+---
+
 # Sanatana Dharma and the Divine Self
 
 ## Eternal Principles

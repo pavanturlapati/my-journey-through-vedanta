@@ -1,3 +1,7 @@
+---
+description: What Navaratri is, the story of Durga and Mahishasura, the nine forms, and a Vedantic way to read the festival.
+---
+
 # Navaratri: Nine Nights, Two Ways of Understanding
 
 *Part of the [Navaratri series](navaratri.md).*

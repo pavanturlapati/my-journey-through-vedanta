@@ -1,3 +1,7 @@
+---
+description: Notes on why Vedanta emphasizes education over rigidity, using the grammar analogy.
+---
+
 # Why Vedanta Emphasizes Education over Rigidity
 
 ## The Grammar Analogy

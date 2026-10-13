@@ -1,3 +1,7 @@
+---
+description: Articles on temples, festivals and Vedanta, written as part of a personal study journey.
+---
+
 # Articles
 
 Longer, topic-based articles that sit alongside the chapter-by-chapter study of the *Vedanta Treatise*. They are written for reading as standalone pieces, often tied to a time of year.

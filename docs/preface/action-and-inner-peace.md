@@ -1,3 +1,7 @@
+---
+description: Preface notes on how right action and inner peace relate in Vedanta.
+---
+
 # Action and Inner Peace
 
 ## Handwritten Notes / Topic

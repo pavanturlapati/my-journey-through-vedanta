@@ -1,3 +1,7 @@
+---
+description: Preface notes on the essence of Vedanta, in simple words.
+---
+
 # The Essence of Vedanta
 
 ## Handwritten Notes / Topic

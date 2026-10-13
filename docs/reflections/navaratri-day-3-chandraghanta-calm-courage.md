@@ -1,3 +1,7 @@
+---
+description: Day 3 of Navaratri: Chandraghanta and what calm courage looks like.
+---
+
 # Day 3 of Navaratri — Chandraghanta: What Does Calm Courage Look Like?
 
 *Part of the [Navaratri series](navaratri.md).*

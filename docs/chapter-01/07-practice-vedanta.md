@@ -1,3 +1,7 @@
+---
+description: Notes on why Vedanta must be practiced, not just studied, using the tailor analogy.
+---
+
 # Vedanta Must Be Practiced
 
 ## The Tailor Analogy

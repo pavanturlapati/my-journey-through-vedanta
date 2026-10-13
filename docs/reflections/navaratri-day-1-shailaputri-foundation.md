@@ -1,3 +1,7 @@
+---
+description: Day 1 of Navaratri: Shailaputri and the question of what the foundation of my life is.
+---
+
 # Day 1 of Navaratri — Shailaputri: What Is the Foundation of My Life?
 
 *Part of the [Navaratri series](navaratri.md).*

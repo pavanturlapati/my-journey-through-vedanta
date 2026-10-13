@@ -1,3 +1,7 @@
+---
+description: Chapter 1, Role of Vedanta: handwritten study notes with explanations, examples and questions, page by page.
+---
+
 # Chapter 1 — Role of Vedanta
 
 **Study sessions:** August 25, 26, 29, 30 and September 1, 2026  

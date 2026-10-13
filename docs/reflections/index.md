@@ -1,3 +1,7 @@
+---
+description: Personal reflections and open questions from a Vedanta study journey.
+---
+
 # Reflections
 
 These pages capture **personal questions and reflections that arise during the study of Vedanta**. They are intentionally kept separate from the chapter notes so that personal inquiry is not presented as if it were a statement of Vedantic doctrine.

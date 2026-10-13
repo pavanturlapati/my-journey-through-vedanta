@@ -1,3 +1,7 @@
+---
+description: Notes on human freedom of choice and right action: pursuing prosperity with peace.
+---
+
 # Human Freedom and Right Action
 
 ## Human Beings Have Freedom of Choice

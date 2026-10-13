@@ -1,3 +1,7 @@
+---
+description: A personal reflection on what I am actually seeking when I go to the temple.
+---
+
 # Why Am I Going to the Temple?
 
 **Personal reflection — August 29, 2026, 9:10 AM**

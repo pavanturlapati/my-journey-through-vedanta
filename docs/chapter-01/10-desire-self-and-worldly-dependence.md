@@ -1,3 +1,7 @@
+---
+description: Notes on desire, the real Self, and worldly dependence: if I am complete, why do I still seek?
+---
+
 # Desire, the Self, and Dependence on the World
 
 **Study session:** August 30, 2026 — Sunday, 12:35 PM

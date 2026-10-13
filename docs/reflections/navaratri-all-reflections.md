@@ -1,3 +1,7 @@
+---
+description: All Navaratri reflections collected on one page, from the introduction through each day published so far.
+---
+
 # Navaratri 2026: All Reflections in One Place
 
 *Part of the [Navaratri series](navaratri.md).*
