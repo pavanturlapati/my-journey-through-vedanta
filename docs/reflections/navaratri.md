@@ -1,7 +1,7 @@
 # Navaratri — Nine Nights, Nine Reflections
 
 **Series started:** October 11, 2026 (first day of Navaratri)  
-**Progress:** Day 2 of 9 published  
+**Progress:** Day 3 of 9 published  
 **Last updated:** October 12, 2026
 
 This page is the home for my Navaratri reflections. Each day I look at one form of the Divine Mother through the lens of Vedanta and tradition, and I add the new article here as soon as it is published. Bookmark this page to follow the series.
@@ -36,7 +36,11 @@ Brahmacharini, the form of the Goddess who walks barefoot with a rosary and a wa
 
 ## Day 3 — Chandraghanta
 
-*Coming soon.*
+Chandraghanta, the form with a crescent moon like a bell on her forehead, is worshipped on the third day. This article covers the stories of the wedding and the battle, her symbols, and fearlessness as a calm, steady mind.
+
+[Read Day 3: Chandraghanta and Calm Courage →](navaratri-day-3-chandraghanta-calm-courage.md)
+
+---
 
 ## Day 4 — Kushmanda
 

@@ -43,7 +43,7 @@ In a widely followed tradition, each day honours one form of Goddess Durga. Coll
 *Devotion and austerity.* She embodies penance, perseverance, self-restraint, and dedication to a spiritual path. [Read the Day 2 article](navaratri-day-2-brahmacharini-steady-effort.md).
 
 ### Day 3 — Chandraghanta
-*Courage and readiness.* Her form evokes courage and protection against harmful forces.
+*Courage and readiness.* Her form evokes courage and protection against harmful forces. [Read the Day 3 article](navaratri-day-3-chandraghanta-calm-courage.md).
 
 ### Day 4 — Kushmanda
 *Creative cosmic energy.* She is associated with the creation and radiance of the universe.
