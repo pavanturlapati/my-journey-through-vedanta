@@ -80,6 +80,7 @@ extra_javascript:
 
 extra:
   generator: false
+  audio_base: https://audio.pavanturlapati.com
   # Analytics and cookie banner. Google Analytics loads only after a visitor
   # clicks Accept. Cloudflare Web Analytics (cookie-free) is in overrides/.
   analytics:

@@ -5,3 +5,22 @@
   <!-- Cloudflare Web Analytics (cookie-free) -->
   <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "d6b46aa9d7a745c28b1a653f863fa3dc"}'></script>
 {% endblock %}
+
+{% block content %}
+  {#- Audio player: preface/index.md and chapter pages. Files live on R2, not in this repo. -#}
+  {% set src = page.file.src_path | replace("\\", "/") %}
+  {% set audio_url = none %}
+  {% if src == "preface/index.md" %}
+    {% set audio_url = config.extra.audio_base ~ "/preface/00-full-preface.mp3" %}
+  {% elif src.startswith("chapter-01/") and src != "chapter-01/index.md" %}
+    {% set audio_url = config.extra.audio_base ~ "/" ~ src[:-3] ~ ".mp3" %}
+  {% endif %}
+  {% if audio_url %}
+    <div class="page-audio">
+      <strong>Listen to this page</strong>
+      <audio controls preload="none" src="{{ audio_url }}"></audio>
+      <a href="{{ config.extra.audio_base }}/feed.xml">Podcast feed</a>
+    </div>
+  {% endif %}
+  {{ super() }}
+{% endblock %}
