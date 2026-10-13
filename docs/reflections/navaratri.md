@@ -1,5 +1,5 @@
 ---
-description: Start here for the Navaratri series: nine nights, nine reflections, each with a story, a symbol and a Vedantic lens.
+description: "Start here for the Navaratri series: nine nights, nine reflections, each with a story, a symbol and a Vedantic lens."
 ---
 
 # Navaratri — Nine Nights, Nine Reflections

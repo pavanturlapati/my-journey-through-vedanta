@@ -1,5 +1,5 @@
 ---
-description: Chapter 1, Role of Vedanta: handwritten study notes with explanations, examples and questions, page by page.
+description: "Chapter 1, Role of Vedanta: handwritten study notes with explanations, examples and questions, page by page."
 ---
 
 # Chapter 1 — Role of Vedanta

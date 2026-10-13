@@ -53,7 +53,7 @@ RULES
 -->
 
 ---
-description: {{ One sentence summary of the page, under about 160 characters. }}
+description: "{{ One sentence summary, under about 160 characters. Keep the double quotes: a colon in an unquoted value breaks the YAML. }}"
 ---
 
 # {{ Page title }}

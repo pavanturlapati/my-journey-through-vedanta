@@ -1,5 +1,5 @@
 ---
-description: Notes on desire, the real Self, and worldly dependence: if I am complete, why do I still seek?
+description: "Notes on desire, the real Self, and worldly dependence: if I am complete, why do I still seek?"
 ---
 
 # Desire, the Self, and Dependence on the World
