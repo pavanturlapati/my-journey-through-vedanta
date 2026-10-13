@@ -1,6 +1,6 @@
 ---
 name: festival-series-hub
-description: Create or update a festival or multi-day series hub page (such as Navaratri) in the Vedanta MkDocs site. Use when adding a new festival series, publishing a new day or article to an existing hub, or updating the Reflections navigation.
+description: Create or update a festival or multi-day series hub page (such as Navaratri) in the Vedanta MkDocs site. Use when adding a new festival series, publishing a new day or article to an existing hub, or updating the Articles navigation.
 ---
 
 # Festival Series Hub
@@ -14,8 +14,8 @@ Use `templates/hub-page.md` as the starting point for a new hub.
 1. Create `docs/reflections/<festival>.md`. Use a **year-neutral** filename (`navaratri.md`, not `navaratri-2026.md`) so the URL is stable and the page can be reused.
 2. Fill in the template: title, "Series started" date, "Progress" and "Last updated" lines, an intro of 2 short paragraphs, then a "Start Here" section and one section per day or part.
 3. List **all** planned days up front. Unpublished days show `*Coming soon.*` with no dates, because tithi dates shift each year.
-4. Add the page to `mkdocs.yml` under `nav` > Reflections > **Festivals**.
-5. Add it to the "Festivals" list in `docs/reflections/index.md`.
+4. Add the page to `mkdocs.yml` under `nav` > Articles > **Festivals** (files stay in `docs/reflections/` so URLs don't change).
+5. Add it to the "Festivals" list in `docs/articles/index.md` (use `../reflections/...` links).
 
 ## Publishing a new day
 
@@ -44,7 +44,7 @@ Rules:
 
 - Articles live in this repo under `docs/reflections/`, so use a **relative `.md` link** (for example `navaratri-day-2-brahmacharini.md`). `mkdocs build --strict` then catches broken links.
 - Use a full live URL (`https://vedanta.pavanturlapati.com/reflections/<slug>/`) only for a page that is not in this repo.
-- Every article in a series must have `*Part of the [<Series name>](<hub>.md).*` directly under its H1 title. Add it when you add the article. Also add the article to `mkdocs.yml` under the hub's nav entry and to the nested list in `docs/reflections/index.md`.
+- Every article in a series must have `*Part of the [<Series name>](<hub>.md).*` directly under its H1 title. Add it when you add the article. Also add the article to `mkdocs.yml` under the hub's nav entry and to the nested list in `docs/articles/index.md`.
 
 ## Content rules
 
@@ -54,7 +54,7 @@ Rules:
 
 ## Navigation structure
 
-Reflections in `mkdocs.yml` are grouped as: Overview, **Festivals** (series hubs), **Personal Questions** (single reflections). Keep `docs/reflections/index.md` in step with the nav.
+In `mkdocs.yml`, **Articles** holds Overview and **Festivals** (series hubs); **Reflections** holds Overview and **Personal Questions**. Keep `docs/articles/index.md` and `docs/reflections/index.md` in step with the nav.
 
 ## Reflection answer boxes (private PDF journal)
 

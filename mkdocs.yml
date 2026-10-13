@@ -25,22 +25,26 @@ theme:
 
 nav:
   - Home: index.md
-  - Preface: preface/index.md
-  - "Chapter 1 — Role of Vedanta":
-      - Overview: chapter-01/index.md
-      - Culmination of Knowledge: chapter-01/01-culmination-of-knowledge.md
-      - Life as a Stream of Experiences: chapter-01/02-stream-of-experiences.md
-      - Human Freedom and Right Action: chapter-01/03-freedom-and-right-action.md
-      - Sanatana Dharma and the Divine Self: chapter-01/04-sanatana-dharma.md
-      - Truth and Independent Thinking: chapter-01/05-truth-and-independent-thinking.md
-      - Education over Rigidity: chapter-01/06-rigidity-and-education.md
-      - Vedanta Must Be Practiced: chapter-01/07-practice-vedanta.md
-      - Dynamic Living and the Faculty of Reason: chapter-01/09-reason-and-dynamic-living.md
-      - Desire, the Self, and Dependence on the World: chapter-01/10-desire-self-and-worldly-dependence.md
-      - Concentration, Consistency, Cooperation: chapter-01/11-concentration-consistency-cooperation.md
-      - Summary and Questions: chapter-01/12-summary-and-questions.md
-  - Reflections:
-      - Overview: reflections/index.md
+  - "Vedanta Treatise":
+      - Preface: preface/index.md
+      - "Chapter 1 — Role of Vedanta":
+          - Overview: chapter-01/index.md
+          - Culmination of Knowledge: chapter-01/01-culmination-of-knowledge.md
+          - Life as a Stream of Experiences: chapter-01/02-stream-of-experiences.md
+          - Human Freedom and Right Action: chapter-01/03-freedom-and-right-action.md
+          - Sanatana Dharma and the Divine Self: chapter-01/04-sanatana-dharma.md
+          - Truth and Independent Thinking: chapter-01/05-truth-and-independent-thinking.md
+          - Education over Rigidity: chapter-01/06-rigidity-and-education.md
+          - Vedanta Must Be Practiced: chapter-01/07-practice-vedanta.md
+          - Dynamic Living and the Faculty of Reason: chapter-01/09-reason-and-dynamic-living.md
+          - Desire, the Self, and Dependence on the World: chapter-01/10-desire-self-and-worldly-dependence.md
+          - Concentration, Consistency, Cooperation: chapter-01/11-concentration-consistency-cooperation.md
+          - Summary and Questions: chapter-01/12-summary-and-questions.md
+  - Articles:
+      - Overview: articles/index.md
+      - Temples:
+          - "Why Do Temples Have Gopurams?": articles/temples/why-gopurams.md
+          - "Why Am I Going to the Temple?": reflections/2026-08-29-why-am-i-going-to-temple.md
       - Festivals:
           - "Navaratri 2026":
               - "Series Hub": reflections/navaratri.md
@@ -49,8 +53,9 @@ nav:
               - "Day 1 — Shailaputri: What Is the Foundation of My Life?": reflections/navaratri-day-1-shailaputri-foundation.md
               - "Day 2 — Brahmacharini: What Does Steady Effort Look Like?": reflections/navaratri-day-2-brahmacharini-steady-effort.md
               - "Day 3 — Chandraghanta: What Does Calm Courage Look Like?": reflections/navaratri-day-3-chandraghanta-calm-courage.md
+  - Reflections:
+      - Overview: reflections/index.md
       - Personal Questions:
-          - "Why Am I Going to the Temple?": reflections/2026-08-29-why-am-i-going-to-temple.md
           - "Who Is God?": reflections/2026-08-30-who-is-god.md
   - About This Study: about.md
   - Privacy: privacy.md

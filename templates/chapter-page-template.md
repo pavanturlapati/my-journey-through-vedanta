@@ -44,7 +44,8 @@ RULES
  - Closing/summary text that is not from the handwriting goes inside an ai-note div.
  - Never write literal "\n" in markdown; use real line breaks.
  - Nav entries in mkdocs.yml: keep indentation identical to sibling lines; quote
-   titles containing a colon.
+   titles containing a colon. Chapters live under the collapsible "Vedanta Treatise"
+   section (Preface, Chapter 1, Chapter 2, ...); add new chapters there as siblings.
  - Commit message style: short imperative subject, no trailing period.
 -->
 
