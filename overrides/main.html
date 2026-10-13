@@ -2,6 +2,24 @@
 
 {% block extrahead %}
   {{ super() }}
+  {#- Share previews (Open Graph / Twitter) and RSS discovery -#}
+  {% set og_title = page.title ~ " — " ~ config.site_name if page and page.title and not page.is_homepage else config.site_name %}
+  {% set og_desc = page.meta.description if page and page.meta and page.meta.description else config.site_description %}
+  {% set og_image = config.site_url ~ "assets/social-card.png" %}
+  <meta property="og:type" content="{{ 'article' if page and not page.is_homepage else 'website' }}">
+  <meta property="og:site_name" content="{{ config.site_name }}">
+  <meta property="og:title" content="{{ og_title }}">
+  <meta property="og:description" content="{{ og_desc }}">
+  <meta property="og:url" content="{{ page.canonical_url if page else config.site_url }}">
+  <meta property="og:image" content="{{ og_image }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ og_title }}">
+  <meta name="twitter:description" content="{{ og_desc }}">
+  <meta name="twitter:image" content="{{ og_image }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ config.site_name }} — RSS" href="{{ config.site_url }}feed_rss_created.xml">
+  <link rel="alternate" type="application/rss+xml" title="{{ config.site_name }} — RSS (updated)" href="{{ config.site_url }}feed_rss_updated.xml">
   <!-- Cloudflare Web Analytics (cookie-free) -->
   <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "d6b46aa9d7a745c28b1a653f863fa3dc"}'></script>
 {% endblock %}

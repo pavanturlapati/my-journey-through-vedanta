@@ -62,6 +62,13 @@ nav:
 
 plugins:
   - search
+  - rss:
+      match_path: "^(?!.*index\\.md$)(chapter-|articles/|reflections/|preface/).*"
+      date_from_meta:
+        as_creation: date
+      abstract_chars_count: 280
+      feed_title: My Journey Through Vedanta
+      feed_description: New study notes, articles and reflections
   - redirects:
       redirect_maps:
         chapter-01/08-summary-and-questions.md: chapter-01/12-summary-and-questions.md

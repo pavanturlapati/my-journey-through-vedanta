@@ -47,7 +47,14 @@ RULES
    titles containing a colon. Chapters live under the collapsible "Vedanta Treatise"
    section (Preface, Chapter 1, Chapter 2, ...); add new chapters there as siblings.
  - Commit message style: short imperative subject, no trailing period.
+ - Add front matter at the very top of the page with a one-sentence `description:`
+   (used for social share previews and the RSS feed). Without it the generic site
+   description is shown when the page is shared.
 -->
+
+---
+description: {{ One sentence summary of the page, under about 160 characters. }}
+---
 
 # {{ Page title }}
 

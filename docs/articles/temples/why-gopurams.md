@@ -1,3 +1,7 @@
+---
+description: What a gopuram is, why it towers over South Indian temples, and a reflective Vedantic reading of passing through a temple gateway.
+---
+
 # Why Do Temples Have Gopurams?
 
 > **A reflective article on the towering gateways of South Indian temples**
