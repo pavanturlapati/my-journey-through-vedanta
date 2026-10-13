@@ -12,6 +12,8 @@ Navaratri, "nine nights", is a festival devoted to the Divine Mother in her nine
 
 ## Start Here
 
+**Reflections in one place:** [All Reflections in One Place →](navaratri-all-reflections.md)
+
 Navaratri is more than a ritual calendar. This introduction sets out what the nine nights mean in tradition, and what Vedanta can add to them.
 
 [Read: Navaratri — Nine Nights, Vedanta and Tradition →](navaratri-nine-nights-vedanta-and-tradition.md)

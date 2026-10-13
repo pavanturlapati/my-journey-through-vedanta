@@ -24,6 +24,7 @@ Use `templates/hub-page.md` as the starting point for a new hub.
 3. Update `Progress` (for example, "Day 2 of 9 published") and `Last updated`.
 4. Use descriptive link text, such as `[Read Day 2: Brahmacharini and Discipline →](URL)`, never a bare "Read more".
 5. Ask the user for the article URL. Never guess a slug.
+6. Add the day to the consolidated reflections page (see below).
 
 ## Daily article template
 
@@ -74,6 +75,15 @@ Articles that end with a numbered list of reflection questions get answer boxes 
 7. `docs/privacy.md` already mentions the answer boxes. Update it if the behaviour changes.
 8. A placeholder-free build won't show the boxes, because they are created in the browser. Check in a browser that the boxes appear and that "Open print-friendly page" works.
 
+## Consolidated reflections page
+
+`docs/reflections/navaratri-all-reflections.md` shows every day's questions and answer box in one place. The individual articles keep their own boxes. For each newly published day:
+
+1. Add a `## Day N: <Form>, <Question>` section **before** the line `*Days X to 9 will be added here as they are published.*` and update that line.
+2. Under it: `Read the article: [Day N — <Form>](<article>.md)`, the 5 questions copied **exactly** from the article, then the `reflection-journal` div with the **same `data-key`, `data-title` and `data-hints`** as the article. The same key makes answers sync between the article and this page.
+3. Each day must be its own `##` section containing only its own list, because the script collects every `<ol>` back to the previous H1/H2. Use no extra headings or lists between the questions and the div.
+4. Keep the acknowledgement and study disclaimer last.
+
 ## Journal entry on the main site
 
 Each series also gets one entry in the main site (`pt-site`, a separate repo at `../pt-site`) that routes readers to the Vedanta hub.
@@ -86,6 +96,7 @@ Each series also gets one entry in the main site (`pt-site`, a separate repo at 
 ## Publish checklist
 
 1. Run `mkdocs build --strict` (after `pip install -r requirements.txt`) and fix any warnings.
+1a. Confirm the consolidated page has the new day's section (5 textareas per day).
 2. Commit and push to `main`. Pushing to `main` triggers `.github/workflows/deploy.yml`, which builds and deploys to GitHub Pages at https://vedanta.pavanturlapati.com/.
 3. Don't commit or push unless the user asks.
 4. After the deploy, check the live hub page and its links.
