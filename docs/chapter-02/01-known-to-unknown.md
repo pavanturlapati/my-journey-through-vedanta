@@ -2,7 +2,7 @@
 description: "Chapter 2 of Vedanta Treatise explores the origin of the world, the limits of conceptual knowledge, and Vedanta's journey from the known to the Self."
 ---
 
-# Chapter 2 — World and Human Being
+# Mystery of Origin | From the Known to the Unknown
 
 **Topic 1: The mystery of origin — from the known to the unknown**  
 **Primary source:** *Vedanta Treatise* by A. Parthasarathy  
