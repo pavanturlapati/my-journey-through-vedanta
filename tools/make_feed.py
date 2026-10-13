@@ -27,10 +27,10 @@ ROOT = Path(__file__).resolve().parents[2]
 AUDIO = ROOT / "audio"
 DOCS = Path(__file__).resolve().parents[1] / "docs"
 
-# (folder, label prefix, docs source folder). Add new chapters here.
-SECTIONS = [
-    ("preface", "Preface", "preface"),
-    ("chapter-01", "Chapter 1", "chapter-01"),
+# Extra sections first, then every chapter-NN folder found under audio/.
+SECTIONS = [("preface", "Preface", "preface")] + [
+    (p.name, f"Chapter {int(p.name.split('-')[1])}", p.name)
+    for p in sorted(AUDIO.glob("chapter-[0-9][0-9]"))
 ]
 
 

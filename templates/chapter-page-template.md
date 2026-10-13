@@ -17,6 +17,15 @@ WORKFLOW when sharing a new handwritten page:
     and the chapter summary page (new summary paragraph, session list entry
     linking to the page's #original-handwritten-page, and new Q&A numbered in order).
  5. Run `mkdocs build --strict` and fix anything it reports before committing.
+ 6. AUDIO (after the page is final, because audio is generated from the text):
+      python tools/generate_audio.py chapter-NN --dry-run   # shows new/CHANGED pages, no cost
+      python tools/publish_audio.py chapter-NN              # generate, rebuild feed, upload
+    Only new or edited pages are generated (hash check). The player on each
+    page and the podcast feed pick up new chapter folders automatically.
+    When the summary page is renumbered (step 3a), delete the old summary MP3
+    in ../audio/chapter-NN/ and run upload_audio.py --prune so the bucket and
+    feed do not keep a duplicate. Audio is not committed to git; the
+    OpenAI key and R2 keys live outside the repo (.env, Windows variables).
 
 BEFORE EDITING: run `git pull --rebase origin main`. The remote has had
 edits made outside this workflow; check for an existing version of the page.

@@ -66,6 +66,8 @@ def find_rclone():
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument("--prune", action="store_true",
+                        help="also delete bucket MP3s that no longer exist locally")
     args = parser.parse_args()
 
     values = {n: get_var(n) for n in NAMES}
@@ -89,8 +91,9 @@ def main():
         RCLONE_CONFIG_R2_ACL="private",
         RCLONE_CONFIG_R2_NO_CHECK_BUCKET="true",
     )
-    cmd = [rclone, "copy", str(AUDIO), f"R2:{BUCKET}", "--include", "*.mp3",
-           "--include", "*.xml", "--include", "*.jpg", "--progress", "--transfers", "4"]
+    cmd = [rclone, "sync" if args.prune else "copy", str(AUDIO), f"R2:{BUCKET}",
+           "--include", "*.mp3", "--include", "*.xml", "--include", "*.jpg",
+           "--progress", "--transfers", "4"]
     if args.dry_run:
         cmd.append("--dry-run")
     sys.exit(subprocess.run(cmd, env=env).returncode)

@@ -12,7 +12,7 @@
   {% set audio_url = none %}
   {% if src == "preface/index.md" %}
     {% set audio_url = config.extra.audio_base ~ "/preface/00-full-preface.mp3" %}
-  {% elif src.startswith("chapter-01/") and src != "chapter-01/index.md" %}
+  {% elif src.startswith("chapter-") and src.endswith(".md") and not src.endswith("/index.md") %}
     {% set audio_url = config.extra.audio_base ~ "/" ~ src[:-3] ~ ".mp3" %}
   {% endif %}
   {% if audio_url %}

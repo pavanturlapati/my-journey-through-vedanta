@@ -5,15 +5,18 @@ Usage:
     python tools/generate_audio.py chapter-01             # generate
     python tools/generate_audio.py preface
 
-Output goes outside the repo, to ../audio/<folder>/NN-slug.mp3. Pages whose MP3
-already exists are skipped, so re-running only pays for new pages. Delete an
-MP3 to regenerate it.
+Output goes outside the repo, to ../audio/<folder>/NN-slug.mp3. A hash of each
+page's spoken text is kept in hashes.json, so re-running only pays for new or
+edited pages. Existing MP3s with no hash yet are trusted and recorded.
+Delete an MP3 to force regeneration.
 
 Needs OPENAI_API_KEY (see tts_sample.py). Standard library only.
 """
 
 import argparse
+import hashlib
 import html
+import json
 import re
 import sys
 import time
@@ -125,15 +128,24 @@ def main():
         text = clean(page.read_text(encoding="utf-8"))
         total += len(text)
         target = out_dir / ("00-full-preface.mp3" if args.index else page.stem + ".mp3")
+        digest = hashlib.sha256((MODEL + VOICE + text).encode()).hexdigest()
+        manifest_path = out_dir / "hashes.json"
+        manifest = json.loads(manifest_path.read_text()) if manifest_path.exists() else {}
         if args.dry_run:
-            print(f"{page.name}: {len(text)} chars, {len(chunks(text))} chunk(s)")
+            state = "new" if not target.exists() else ("unchanged" if manifest.get(target.name) == digest else "CHANGED")
+            print(f"{page.name}: {len(text)} chars, {len(chunks(text))} chunk(s), {state}")
             continue
-        if target.exists():
-            print(f"skip {target.name} (exists)")
+        if target.exists() and (manifest.get(target.name) == digest or target.name not in manifest):
+            if target.name not in manifest:
+                manifest[target.name] = digest
+                manifest_path.write_text(json.dumps(manifest, indent=1))
+            print(f"skip {target.name} (unchanged)")
             continue
         out_dir.mkdir(parents=True, exist_ok=True)
         data = b"".join(speak(key, c) for c in chunks(text))
         target.write_bytes(data)
+        manifest[target.name] = digest
+        manifest_path.write_text(json.dumps(manifest, indent=1))
         print(f"saved {target} ({len(data) // 1024} KB)")
     print(f"total spoken text: {total} chars")
 
