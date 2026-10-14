@@ -58,7 +58,19 @@ Read the article: [Day 3 — Chandraghanta](navaratri-day-3-chandraghanta-calm-c
 
 <div class="reflection-journal" data-key="navaratri-day-3" data-title="Day 3 of Navaratri — Chandraghanta: What Does Calm Courage Look Like?" data-hints="a hard conversation, a health worry, speaking up at work, or “nothing in particular”|I tend to go quiet first and then overthink it|a slow breath, a short walk, talking it through with someone I trust|I seem to fear losing approval, or my sense of being capable|pausing for one breath before I reply when I feel tense"></div>
 
-*Days 4 to 9 will be added here as they are published.*
+## Day 4: Kushmanda, Where Does My Light Come From?
+
+Read the article: [Day 4 — Kushmanda](navaratri-day-4-kushmanda-source-of-light.md)
+
+1. **What am I creating or beginning in my life right now?** It may be small: a habit, a relationship, a project, a meal, a conversation.
+2. **Does my effort come from fullness or from strain?** What changes in me when I act without anxiety about the result?
+3. **Where does my light come from?** Which people, teachers, circumstances or abilities made it possible for me to do what I do well?
+4. **Whom or what do I need to thank?** Is there a source of light in my life that I have never acknowledged?
+5. **How could I be a gentle source of light for someone this week?** What is one small, concrete act of warmth, encouragement or help?
+
+<div class="reflection-journal" data-key="navaratri-day-4" data-title="Day 4 of Navaratri — Kushmanda: Where Does My Light Come From?" data-hints="a new daily habit, a conversation I've been putting off, a small project at home|I work more freely when I stop worrying about how it will be judged|a teacher who believed in me, my parents, years of practice, a kind colleague|I've never properly thanked someone who helped me early on|sending a short, kind message to someone who might need it"></div>
+
+*Days 5 to 9 will be added here as they are published.*
 
 ## Acknowledgement and study disclaimer
 

@@ -5,8 +5,8 @@ description: "Start here for the Navaratri series: nine nights, nine reflections
 # Navaratri — Nine Nights, Nine Reflections
 
 **Series started:** October 11, 2026 (first day of Navaratri)  
-**Progress:** Day 3 of 9 published  
-**Last updated:** October 12, 2026
+**Progress:** Day 4 of 9 published  
+**Last updated:** October 13, 2026
 
 This page is the home for my Navaratri reflections. Each day I look at one form of the Divine Mother through the lens of Vedanta and tradition, and I add the new article here as soon as it is published. Bookmark this page to follow the series.
 
@@ -50,7 +50,9 @@ Chandraghanta, the form with a crescent moon like a bell on her forehead, is wor
 
 ## Day 4 — Kushmanda
 
-*Coming soon.*
+Kushmanda, the form said to have created the cosmic egg with a gentle smile, is worshipped on the fourth day. This article covers the traditional account of creation, her symbols, and the Gita's teaching that the Sun's light is not its own.
+
+[Read Day 4: Kushmanda and the Source of Light →](navaratri-day-4-kushmanda-source-of-light.md)
 
 ## Day 5 — Skandamata
 
