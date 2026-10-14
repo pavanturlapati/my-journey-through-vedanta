@@ -25,6 +25,8 @@ Use `templates/hub-page.md` as the starting point for a new hub.
 4. Use descriptive link text, such as `[Read Day 2: Brahmacharini and Discipline →](URL)`, never a bare "Read more".
 5. Ask the user for the article URL. Never guess a slug.
 6. Add the day to the consolidated reflections page (see below).
+7. Add the article to `mkdocs.yml` under Articles > Festivals > the series entry, and to the nested list under the series in `docs/articles/index.md` (use `../reflections/...` links). Do **not** add Navaratri pages to `docs/reflections/index.md`, which is only for personal questions.
+8. After inserting any nav or list line, check its indentation (`grep -n`), because the edit tool can add extra leading spaces and break the YAML.
 
 ## Daily article template
 
@@ -38,7 +40,7 @@ Rules:
 - Verify mantras, scripture quotes and stories before writing. Hedge customs with "commonly" or "in some regions", and don't state unverified offerings or colours as fact.
 - Don't state a calendar date. Tithi dates shift.
 - Don't add the "reverence and gratitude" line. It was removed on purpose.
-- Day 1 was refactored to this template on October 12, 2026. Day 2 is the reference example.
+- Day 1 was refactored to this template on October 12, 2026. Days 2 to 4 follow it; Day 4 is the latest reference example.
 
 ## Link rules
 
@@ -55,7 +57,7 @@ Rules:
 
 ## Navigation structure
 
-In `mkdocs.yml`, **Articles** holds Overview and **Festivals** (series hubs); **Reflections** holds Overview and **Personal Questions**. Keep `docs/articles/index.md` and `docs/reflections/index.md` in step with the nav.
+In `mkdocs.yml`, **Articles** holds Overview, **Temples** and **Festivals** (series hubs and their day articles); **Reflections** holds Overview and **Personal Questions** only. Festival pages stay in `docs/reflections/` so URLs don't change, but they are listed in the nav and in `docs/articles/index.md`, not in `docs/reflections/index.md`.
 
 ## Reflection answer boxes (private PDF journal)
 
