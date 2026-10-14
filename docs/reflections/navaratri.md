@@ -5,8 +5,8 @@ description: "Start here for the Navaratri series: nine nights, nine reflections
 # Navaratri — Nine Nights, Nine Reflections
 
 **Series started:** October 11, 2026 (first day of Navaratri)  
-**Progress:** Day 4 of 9 published  
-**Last updated:** October 13, 2026
+**Progress:** All 9 days published, plus Day 10 (Vijayadashami)  
+**Last updated:** October 14, 2026
 
 This page is the home for my Navaratri reflections. Each day I look at one form of the Divine Mother through the lens of Vedanta and tradition, and I add the new article here as soon as it is published. Bookmark this page to follow the series.
 
@@ -54,25 +54,55 @@ Kushmanda, the form said to have created the cosmic egg with a gentle smile, is 
 
 [Read Day 4: Kushmanda and the Source of Light →](navaratri-day-4-kushmanda-source-of-light.md)
 
+---
+
 ## Day 5 — Skandamata
 
-*Coming soon.*
+Skandamata, the mother of Skanda shown with the child on her lap, is worshipped on the fifth day. This article covers the story of Tarakasura and the birth of Skanda, her symbols, and care as a way of seeing, held without possession.
+
+[Read Day 5: Skandamata and Nurturing Care →](navaratri-day-5-skandamata-nurturing-care.md)
+
+---
 
 ## Day 6 — Katyayani
 
-*Coming soon.*
+Katyayani, the warrior form said to have emerged to defeat Mahishasura, is worshipped on the sixth day. This article covers the story of the gods' combined energy, her symbols of the sword and the lotus, and the Gita's teaching of desire and anger as the inner opponent.
+
+[Read Day 6: Katyayani and Righteous Resolve →](navaratri-day-6-katyayani-righteous-resolve.md)
+
+---
 
 ## Day 7 — Kalaratri
 
-*Coming soon.*
+Kalaratri, the dark and fierce form whose raised hand says "do not be afraid", is worshipped on the seventh day. This article covers the story of Raktabija, the meaning of her symbols, and the Upanishadic prayer that leads from darkness to light.
+
+[Read Day 7: Kalaratri and Facing the Dark →](navaratri-day-7-kalaratri-facing-the-dark.md)
+
+---
 
 ## Day 8 — Mahagauri
 
-*Coming soon.*
+Mahagauri, the serene white-clad form whose radiance is uncovered after long penance, is worshipped on the eighth day. This article covers the story of the Ganga washing away the dust, her symbols, and the Isha Upanishad's idea of letting go as a way of receiving.
+
+[Read Day 8: Mahagauri and Letting Go →](navaratri-day-8-mahagauri-letting-go.md)
+
+---
 
 ## Day 9 — Siddhidatri
 
-*Coming soon.*
+Siddhidatri, the giver of *siddhis* who completes the nine forms, is worshipped on the ninth day. This article covers the traditional account of the *siddhis*, her symbols, and the Gita's teaching that perfection is found through one's own work and self-knowledge.
+
+[Read Day 9: Siddhidatri and Fulfilment →](navaratri-day-9-siddhidatri-fulfilment.md)
+
+---
+
+## Day 10 — Vijayadashami
+
+Vijayadashami, the tenth day that follows the nine nights, is not one of the nine forms. This article covers the stories linked with the day, its customs and symbols, and the Gita's teaching that the decisive victory is over the inner opponent.
+
+[Read Day 10: Vijayadashami and the Victory Within →](navaratri-day-10-vijayadashami-victory.md)
+
+---
 
 ---
 

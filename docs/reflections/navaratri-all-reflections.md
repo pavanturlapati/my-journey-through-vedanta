@@ -70,7 +70,77 @@ Read the article: [Day 4 — Kushmanda](navaratri-day-4-kushmanda-source-of-ligh
 
 <div class="reflection-journal" data-key="navaratri-day-4" data-title="Day 4 of Navaratri — Kushmanda: Where Does My Light Come From?" data-hints="a new daily habit, a conversation I've been putting off, a small project at home|I work more freely when I stop worrying about how it will be judged|a teacher who believed in me, my parents, years of practice, a kind colleague|I've never properly thanked someone who helped me early on|sending a short, kind message to someone who might need it"></div>
 
-*Days 5 to 9 will be added here as they are published.*
+## Day 5: Skandamata, Whom Am I Nurturing?
+
+Read the article: [Day 5 — Skandamata](navaratri-day-5-skandamata-nurturing-care.md)
+
+1. **Whom am I nurturing right now?** It may be a child, a parent, a student, a friend, a plant, or even a part of myself.
+2. **Who nurtured me?** Whose care helped me become who I am, and have I ever said thank you?
+3. **Does my care come with conditions?** Do I quietly expect gratitude, obedience or a certain outcome in return?
+4. **Where do I find it hard to let go?** What would it look like to support someone's growth without steering it?
+5. **How do I care for myself?** What is one small, kind thing I could do for myself this week, so that I can keep caring for others?
+
+<div class="reflection-journal" data-key="navaratri-day-5" data-title="Day 5 of Navaratri — Skandamata: Whom Am I Nurturing?" data-hints="my children, an elderly parent, a new colleague, a friendship I want to keep up|a grandparent, a teacher, a neighbour who helped when I needed it|I sometimes hope to be thanked, and I notice it when I'm not|letting a grown child make their own choices|resting properly, a walk, saying no to one extra task"></div>
+
+## Day 6: Katyayani, What Am I Called to Stand Up For?
+
+Read the article: [Day 6 — Katyayani](navaratri-day-6-katyayani-righteous-resolve.md)
+
+1. **What do I stand for?** Which two or three values would I find hard to give up?
+2. **Where have I stayed silent when I should have spoken?** What held me back?
+3. **What is my inner opponent?** Is it anger, craving, fear, laziness or something else that most often pulls me off course?
+4. **Can I be firm without being harsh?** What would it look like to act clearly, with a lotus in one hand?
+5. **What is one small, brave step I can take this week?** It might be a conversation, a boundary or a habit.
+
+<div class="reflection-journal" data-key="navaratri-day-6" data-title="Day 6 of Navaratri — Katyayani: What Am I Called to Stand Up For?" data-hints="honesty, fairness, kindness to those with less power|a meeting where I let something unfair pass, because I didn't want conflict|a quick temper, constant comparison, putting things off|taking a breath before I answer, and saying it plainly|politely declining an extra task, or having a hard conversation I've delayed"></div>
+
+## Day 7: Kalaratri, What Am I Afraid to Look At?
+
+Read the article: [Day 7 — Kalaratri](navaratri-day-7-kalaratri-facing-the-dark.md)
+
+1. **What am I afraid to look at?** It might be a decision, a conversation, a loss, or something about myself.
+2. **What story have I built around it?** How much of what I imagine is known, and how much is guessed?
+3. **What has fear cost me?** What have I avoided, delayed or not said because of it?
+4. **What helps me stay steady in the dark?** A prayer, a person, a breath, a routine?
+5. **What is one small light I can switch on this week?** One step toward looking at it, even for a minute.
+
+<div class="reflection-journal" data-key="navaratri-day-7" data-title="Day 7 of Navaratri — Kalaratri: What Am I Afraid to Look At?" data-hints="a difficult conversation, a health check I've put off, a decision I keep delaying|I imagine the worst, but I haven't actually checked the facts|I've avoided opening up to people and delayed some choices|a short prayer, a slow breath, calling a trusted friend|writing the problem down in two lines, or booking the appointment"></div>
+
+## Day 8: Mahagauri, What Can I Wash Away and Let Go?
+
+Read the article: [Day 8 — Mahagauri](navaratri-day-8-mahagauri-letting-go.md)
+
+1. **What am I carrying that I no longer need?** It might be an old grudge, a habit, a possession, or a belief about myself.
+2. **What has the "dust" of effort and struggle left on me?** Where am I tired, hardened or self-critical?
+3. **What would it mean to forgive, myself or someone else?** What could be washed away by that?
+4. **What does simplicity look like for me right now?** What could I remove from my day, my space or my mind?
+5. **What is one small act of cleansing I can do this week?** It might be a conversation, a tidy-up, a day of rest or a prayer.
+
+<div class="reflection-journal" data-key="navaratri-day-8" data-title="Day 8 of Navaratri — Mahagauri: What Can I Wash Away and Let Go?" data-hints="an old argument, clutter in my home, a habit of comparing myself with others|I feel tired and a bit hard on myself after a long stretch of effort|forgiving myself for an old mistake, or letting an old disagreement rest|fewer commitments, a quieter morning, less time on my phone|clearing one shelf, apologising to someone, taking a full day of rest"></div>
+
+## Day 9: Siddhidatri, What Does Fulfilment Really Mean?
+
+Read the article: [Day 9 — Siddhidatri](navaratri-day-9-siddhidatri-fulfilment.md)
+
+1. **What does fulfilment mean to me?** If I imagine feeling truly complete, what is present in that picture?
+2. **What have I already received?** Which things in my life did I once hope for and now take for granted?
+3. **Which "powers" or achievements do I chase?** What am I hoping they will give me?
+4. **What has changed in me over these nine days?** Even a small shift counts.
+5. **What will I carry forward?** One quality, practice or question from this series that I would like to keep.
+
+<div class="reflection-journal" data-key="navaratri-day-9" data-title="Day 9 of Navaratri — Siddhidatri: What Does Fulfilment Really Mean?" data-hints="feeling at peace, having time for people I love, work that feels worthwhile|my health, a home, a job I once hoped for|a promotion, recognition, being seen as capable|I'm a little more patient, and I pause before reacting|a daily quiet moment, and the question of where my light comes from"></div>
+
+## Day 10: Vijayadashami, What Does Victory Really Mean?
+
+Read the article: [Day 10 — Vijayadashami](navaratri-day-10-vijayadashami-victory.md)
+
+1. **What does victory mean to me?** When I picture a real win, what is in that picture?
+2. **Which of my "ten heads" is the strongest right now?** Is it anger, pride, envy, greed, laziness or something else?
+3. **What is something I "won" that left me feeling smaller?** What would I do differently?
+4. **What did the last nine days show me?** Which day's question stayed with me most, and why?
+5. **What is the one thing I want to begin, or keep going, now that the nights are over?** What would a first step look like?
+
+<div class="reflection-journal" data-key="navaratri-day-10" data-title="Day 10 — Vijayadashami: What Does Victory Really Mean?" data-hints="being at peace with a hard choice, a good relationship, and not needing to prove I'm right|a quick temper, comparing myself with others, putting things off|an argument where I was right but said it too harshly|the day about fear, or the day about letting go|a small daily practice, a conversation I've been avoiding, a new study routine"></div>
 
 ## Acknowledgement and study disclaimer
 
