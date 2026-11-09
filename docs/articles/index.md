@@ -13,6 +13,7 @@ Longer, topic-based articles that sit alongside the chapter-by-chapter study of 
 
 ## Festivals
 
+- [Dhanteras, Diwali and Gujarati New Year — What Do We Carry Forward?](../reflections/dhanteras-diwali-gujarati-new-year.md) — A personal reflection on gold, diyas, worship, sharing sweets and beginning the year with family.
 - [Navaratri — Nine Nights, Nine Reflections — October 2026](../reflections/navaratri.md) *(complete, all nine days published)*
     - [All Reflections in One Place](../reflections/navaratri-all-reflections.md) — Every day's reflection questions and answer boxes on a single page.
     - [Navaratri: Nine Nights, Two Ways of Understanding](../reflections/navaratri-nine-nights-vedanta-and-tradition.md) — A detailed exploration of the nine days through Vedanta and Hindu religious traditions.
